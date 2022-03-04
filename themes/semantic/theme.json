@@ -1,0 +1,76 @@
+{
+    "name": "Semantic",
+    "elements": [
+        {
+            "tag": "Person",
+            "background": "#b391b5",
+            "stroke": "#834187",
+            "color": "#ffffff",
+            "shape": "Person"
+        },
+        {
+            "tag": "Software System",
+            "background": "#83bbe5",
+            "stroke": "#0c7cba",
+            "color": "#ffffff"
+        },
+        {
+            "tag": "Container",
+            "background": "#ff8f80",
+            "stroke": "#c92d39",
+            "color": "#ffffff"
+        },
+        {
+            "tag": "Component",
+            "background": "#c7e8ac",
+            "stroke": "#7ab648",
+            "color": "#ffffff"
+        },
+        {
+            "tag": "Infrastructure Node",
+            "background": "#99d5ca",
+            "stroke": "#19967d",
+            "color": "#ffffff",
+            "height": 200,
+            "shape": "RoundedBox"
+        },
+        {
+            "tag": "#external",
+            "background": "#cccccc",
+            "stroke": "#666666",
+            "color": "#ffffff"
+        },
+        {
+            "tag": "#web",
+            "shape": "WebBrowser"
+        },
+        {
+            "tag": "#db",
+            "shape": "Cylinder"
+        },
+        {
+            "tag": "#mobile",
+            "shape": "MobileDevicePortrait"
+        },
+        {
+            "tag": "#bot",
+            "shape": "Robot"
+        },
+        {
+            "tag": "#micro",
+            "shape": "Hexagon"
+        },
+        {
+            "tag": "#file",
+            "shape": "Folder"
+        },
+        {
+            "tag": "#pkg",
+            "shape": "Component"
+        },
+        {
+            "tag": "Relationship",
+            "routing": "Direct"
+        }
+    ]
+}
