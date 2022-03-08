@@ -1,0 +1,41 @@
+{
+    "name": "Semantic",
+    "elements": [
+        {
+            "tag": "#app",
+            "background": "#b2d6ef",
+            "stroke": "#0c7cba",
+            "color": "#ffffff"
+        },
+        {
+            "tag": "#ccc",
+            "background": "#f9d2de",
+            "stroke": "#de5f85",
+            "color": "#ffffff"
+        },
+        {
+            "tag": "#dom",
+            "background": "#ffeca9",
+            "stroke": "#fcc438",
+            "color": "#ffffff"
+        },
+        {
+            "tag": "#fou",
+            "background": "#99d8ca",
+            "stroke": "#19967d",
+            "color": "#ffffff"
+        },
+        {
+            "tag": "#inf",
+            "background": "#d1bcd2",
+            "stroke": "#834187",
+            "color": "#ffffff"
+        },
+        {
+            "tag": "#pre",
+            "background": "#c7e8ac",
+            "stroke": "#7ab648",
+            "color": "#ffffff"
+        }
+    ]
+}
