@@ -1,0 +1,108 @@
+{
+    "name": "Heraldry",
+    "description": "This theme includes element styles with icons for popular brands. (https://github.com/simple-icons/simple-icons).",
+    "elements": [
+        {
+            "tag": "#ansys",
+            "stroke": "#FFB71B",
+            "color": "#FFB71B",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ansys.svg"
+        },
+        {
+            "tag": "#aws",
+            "stroke": "#232F3E",
+            "color": "#232F3E",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg"
+        },
+        {
+            "tag": "#azure",
+            "stroke": "#0078D4",
+            "color": "#0078D4",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftazure.svg"
+        },
+        {
+            "tag": "#docker",
+            "stroke": "#2496ED",
+            "color": "#2496ED",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg"
+        },
+        {
+            "tag": "#dockerCompose",
+            "stroke": "#2496ED",
+            "color": "#2496ED",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg"
+        },
+        {
+            "tag": "#googlecloud",
+            "stroke": "#4285F4",
+            "color": "#4285F4",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg"
+        },
+        {
+            "tag": "#grafana",
+            "stroke": "#F46800",
+            "color": "#F46800",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg"
+        },
+        {
+            "tag": "#jaeger",
+            "stroke": "#2496ED",
+            "color": "#2496ED",
+            "icon": ""
+        },
+        {
+            "tag": "#k8s",
+            "stroke": "#326CE5",
+            "color": "#326CE5",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kubernetes.svg"
+        },
+        {
+            "tag": "#linux",
+            "stroke": "#FCC624",
+            "color": "#FCC624",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg"
+        },
+        {
+            "tag": "#loki",
+            "stroke": "#F46800",
+            "color": "#F46800",
+            "icon": ""
+        },
+        {
+            "tag": "#otel",
+            "stroke": "#000000",
+            "color": "#000000",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opentelemetry.svg"
+        },
+        {
+            "tag": "#podman",
+            "stroke": "#892CA0",
+            "color": "#892CA0",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/podman.svg"
+        },
+        {
+            "tag": "#prometheus",
+            "stroke": "#E6522C",
+            "color": "#E6522C",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prometheus.svg"
+        },
+        {
+            "tag": "#tempo",
+            "stroke": "#F46800",
+            "color": "#F46800",
+            "icon": ""
+        },
+        {
+            "tag": "#windows",
+            "stroke": "#0078D6",
+            "color": "#0078D6",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windows.svg"
+        },
+        {
+            "tag": "#zipkin",
+            "stroke": "#66CFE3",
+            "color": "#66CFE3",
+            "icon": ""
+        }
+    ]
+}

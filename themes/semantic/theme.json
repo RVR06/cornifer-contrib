@@ -41,6 +41,10 @@
             "color": "#ffffff"
         },
         {
+            "tag": "#api",
+            "height": 150
+        },
+        {
             "tag": "#web",
             "shape": "WebBrowser"
         },
@@ -67,6 +71,10 @@
         {
             "tag": "#pkg",
             "shape": "Component"
+        },
+        {
+            "tag": "#bus",
+            "shape": "Pipe"
         },
         {
             "tag": "Relationship",
