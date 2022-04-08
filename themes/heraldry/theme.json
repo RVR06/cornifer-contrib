@@ -9,9 +9,17 @@
             "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ansys.svg"
         },
         {
+            "tag": "#ansys_",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ansys.svg"
+        },
+        {
             "tag": "#aws",
             "stroke": "#232F3E",
             "color": "#232F3E",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg"
+        },
+        {
+            "tag": "#aws_",
             "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg"
         },
         {
@@ -21,9 +29,17 @@
             "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftazure.svg"
         },
         {
+            "tag": "#azure_",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftazure.svg"
+        },
+        {
             "tag": "#docker",
             "stroke": "#2496ED",
             "color": "#2496ED",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg"
+        },
+        {
+            "tag": "#docker_",
             "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg"
         },
         {
@@ -33,9 +49,27 @@
             "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg"
         },
         {
+            "tag": "#dockerCompose_",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg"
+        },
+        {
+            "tag": "#electron",
+            "stroke": "#47848F",
+            "color": "#47848F",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/electron.svg"
+        },
+        {
+            "tag": "#electron_",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/electron.svg"
+        },
+        {
             "tag": "#googlecloud",
             "stroke": "#4285F4",
             "color": "#4285F4",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg"
+        },
+        {
+            "tag": "#googlecloud_",
             "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg"
         },
         {
@@ -45,9 +79,17 @@
             "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg"
         },
         {
+            "tag": "#grafana_",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg"
+        },
+        {
             "tag": "#jaeger",
             "stroke": "#2496ED",
             "color": "#2496ED",
+            "icon": ""
+        },
+        {
+            "tag": "#jaeger_",
             "icon": ""
         },
         {
@@ -57,9 +99,17 @@
             "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kubernetes.svg"
         },
         {
+            "tag": "#k8s_",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kubernetes.svg"
+        },
+        {
             "tag": "#linux",
             "stroke": "#FCC624",
             "color": "#FCC624",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg"
+        },
+        {
+            "tag": "#linux_",
             "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg"
         },
         {
@@ -69,9 +119,17 @@
             "icon": ""
         },
         {
+            "tag": "#loki_",
+            "icon": ""
+        },
+        {
             "tag": "#otel",
             "stroke": "#000000",
             "color": "#000000",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opentelemetry.svg"
+        },
+        {
+            "tag": "#otel_",
             "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opentelemetry.svg"
         },
         {
@@ -81,9 +139,17 @@
             "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/podman.svg"
         },
         {
+            "tag": "#podman_",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/podman.svg"
+        },
+        {
             "tag": "#prometheus",
             "stroke": "#E6522C",
             "color": "#E6522C",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prometheus.svg"
+        },
+        {
+            "tag": "#prometheus_",
             "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prometheus.svg"
         },
         {
@@ -93,15 +159,27 @@
             "icon": ""
         },
         {
+            "tag": "#tempo_",
+            "icon": ""
+        },
+        {
             "tag": "#windows",
             "stroke": "#0078D6",
             "color": "#0078D6",
             "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windows.svg"
         },
         {
+            "tag": "#windows_",
+            "icon": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windows.svg"
+        },
+        {
             "tag": "#zipkin",
             "stroke": "#66CFE3",
             "color": "#66CFE3",
+            "icon": ""
+        },
+        {
+            "tag": "#zipkin_",
             "icon": ""
         }
     ]
