@@ -3,6 +3,11 @@
     "description": "This theme includes element styles with icons for popular brands. (https://github.com/simple-icons/simple-icons).",
     "elements": [
         {
+            "tag": "Infrastructure Node",
+            "height": 200,
+            "shape": "RoundedBox"
+        },
+        {
             "tag": "#ansys",
             "stroke": "#FFB71B",
             "color": "#FFB71B",
