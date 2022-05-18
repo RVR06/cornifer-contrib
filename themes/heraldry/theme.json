@@ -8,6 +8,15 @@
             "shape": "RoundedBox"
         },
         {
+            "tag": "#android",
+            "stroke": "#3DDC84",
+            "color": "#3DDC84",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/android.png"
+        },        {
+            "tag": "#android_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/android.png"
+        },
+        {
             "tag": "#ansys",
             "stroke": "#FFB71B",
             "color": "#FFB71B",
