@@ -13,10 +13,6 @@
             "metadata": "false",
             "description": "false",
             "height": "150"
-        },
-        {
-            "tag": "Infrastructure Node",
-            "metadata": "true"
         }
     ]
 }
