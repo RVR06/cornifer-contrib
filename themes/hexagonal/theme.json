@@ -1,5 +1,6 @@
 {
     "name": "Hexagonal",
+    "description": "This theme surfaces hexagonal mapping.",
     "elements": [
         {
             "tag": "#app",

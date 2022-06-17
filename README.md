@@ -33,3 +33,15 @@ If you want to leverage `hexagonal` theme within `Structurizr DSL`, simply amend
 views {
 +   theme https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/themes/hexagonal/theme.json
 }
+```
+
+
+### Topology
+
+If you want to leverage `topology` theme within `Structurizr DSL`, simply amend your `workspace.dsl`:
+
+```diff
+views {
++   theme https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/themes/topology/theme.json
+}
+```

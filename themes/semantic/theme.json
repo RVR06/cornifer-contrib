@@ -1,5 +1,6 @@
 {
     "name": "Semantic",
+    "description": "This theme leverages semantic color schema to speed up visual segmentation.",
     "elements": [
         {
             "tag": "Person",
