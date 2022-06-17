@@ -9,8 +9,7 @@
         },
         {
             "tag": "Infrastructure Node",
-            "metadata": "true",
-            "description": "true"
+            "metadata": "true"
         }
     ]
 }
