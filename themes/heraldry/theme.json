@@ -73,8 +73,8 @@
         },
         {
             "tag": "#edge",
-            "stroke": "##0078D7",
-            "color": "##0078D7",
+            "stroke": "#0078D7",
+            "color": "#0078D7",
             "icon": ""
         },
         {
@@ -134,8 +134,8 @@
 
         {
             "tag": "#influxdb",
-            "stroke": "##22ADF6",
-            "color": "##22ADF6",
+            "stroke": "#22ADF6",
+            "color": "#22ADF6",
             "icon": ""
         },
         {
