@@ -146,6 +146,24 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/kubernetes.png"
         },
         {
+            "tag": "#keycloak",
+            "stroke": "#4D4D4D",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/keycloak.png"
+        },
+        {
+            "tag": "#keycloak_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/keycloak.png"
+        },
+        {
+            "tag": "#keydb",
+            "stroke": "#E0E000",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/keydb.png"
+        },
+        {
+            "tag": "#keydb_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/keydb.png"
+        },
+        {
             "tag": "#linux",
             "stroke": "#FCC624",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/linux.png"

@@ -30,8 +30,7 @@
         },
         {
             "tag": "#db",
-            "shape": "Cylinder",
-            "height": 250
+            "shape": "Cylinder"
         },
         {
             "tag": "#mobile",
