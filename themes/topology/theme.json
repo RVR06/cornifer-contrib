@@ -6,13 +6,13 @@
             "tag": "Software System Instance",
             "metadata": "false",
             "description": "false",
-            "height": "150"
+            "height": 150
         },
         {
             "tag": "Container Instance",
             "metadata": "false",
             "description": "false",
-            "height": "150"
+            "height": 150
         },
         {
             "tag": "Infrastructure Node",
