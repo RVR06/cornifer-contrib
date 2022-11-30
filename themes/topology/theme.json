@@ -6,11 +6,13 @@
             "tag": "Element",
             "metadata": false,
             "description": false,
-            "height": 200
+            "height": 200,
+            "background": "#F5F5F5"
         },
         {
             "tag": "Infrastructure Node",
-            "shape": "RoundedBox"
+            "shape": "RoundedBox",
+            "metadata": true
         },
         {
             "tag": "#web",
