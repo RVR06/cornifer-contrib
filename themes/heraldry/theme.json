@@ -24,12 +24,10 @@
         {
             "tag": "#asynkron",
             "stroke": "#8B42C7",
-            "color": "#8B42C7",
-            "icon": ""
+            "color": "#8B42C7"
         },
         {
-            "tag": "#asynkron_",
-            "icon": ""
+            "tag": "#asynkron_"
         },
         {
             "tag": "#aws",
@@ -74,12 +72,10 @@
         {
             "tag": "#edge",
             "stroke": "#0078D7",
-            "color": "#0078D7",
-            "icon": ""
+            "color": "#0078D7"
         },
         {
-            "tag": "#edge_",
-            "icon": ""
+            "tag": "#edge_"
         },
         {
             "tag": "#electron",
@@ -94,12 +90,10 @@
         {
             "tag": "#github",
             "stroke": "#181717",
-            "color": "#181717",
-            "icon": ""
+            "color": "#181717"
         },
         {
-            "tag": "#github_",
-            "icon": ""
+            "tag": "#github_"
         },
         {
             "tag": "#googlecloud",
@@ -134,22 +128,18 @@
         {
             "tag": "#influxdb",
             "stroke": "#22ADF6",
-            "color": "#22ADF6",
-            "icon": ""
+            "color": "#22ADF6"
         },
         {
-            "tag": "#influxdb_",
-            "icon": ""
+            "tag": "#influxdb_"
         },
         {
             "tag": "#jaeger",
             "stroke": "#2496ED",
-            "color": "#2496ED",
-            "icon": ""
+            "color": "#2496ED"
         },
         {
-            "tag": "#jaeger_",
-            "icon": ""
+            "tag": "#jaeger_"
         },
         {
             "tag": "#k8s",
@@ -174,12 +164,10 @@
         {
             "tag": "#loki",
             "stroke": "#F46800",
-            "color": "#F46800",
-            "icon": ""
+            "color": "#F46800"
         },
         {
-            "tag": "#loki_",
-            "icon": ""
+            "tag": "#loki_"
         },
         {
             "tag": "#otel",
@@ -204,12 +192,10 @@
         {
             "tag": "#postgresql",
             "stroke": "#4169E1",
-            "color": "#4169E1",
-            "icon": ""
+            "color": "#4169E1"
         },
         {
-            "tag": "#postgresql_",
-            "icon": ""
+            "tag": "#postgresql_"
         },
         {
             "tag": "#prometheus",
@@ -224,22 +210,19 @@
         {
             "tag": "#tempo",
             "stroke": "#F46800",
-            "color": "#F46800",
-            "icon": ""
+            "color": "#F46800"
         },
         {
-            "tag": "#tempo_",
-            "icon": ""
+            "tag": "#tempo_"
         },
         {
             "tag": "#traefik",
             "stroke": "#24A1C1",
-            "color": "#24A1C1",
-            "icon": ""
+            "color": "#24A1C1"
+
         },
         {
-            "tag": "#traefik_",
-            "icon": ""
+            "tag": "#traefik_"
         },
         {
             "tag": "#windows",
@@ -254,12 +237,10 @@
         {
             "tag": "#zipkin",
             "stroke": "#66CFE3",
-            "color": "#66CFE3",
-            "icon": ""
+            "color": "#66CFE3"
         },
         {
-            "tag": "#zipkin_",
-            "icon": ""
+            "tag": "#zipkin_"
         }
     ]
 }
