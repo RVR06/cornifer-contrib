@@ -18,9 +18,11 @@
         },
         {
             "tag": "Infrastructure Node",
-            "shape": "RoundedBox",
+            "metadata": true, 
+            "description": false,
+            "height": 200,
             "background": "#F5F5F5",
-            "metadata": true
+            "shape": "RoundedBox"
         },
         {
             "tag": "#web",
