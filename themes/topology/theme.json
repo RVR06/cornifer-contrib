@@ -3,18 +3,17 @@
     "description": "This theme emphasizes infrastructure topology, while minimizing software footprint.",
     "elements": [
         {
-            "tag": "Element",
+            "tag": "Software System Instance",
             "metadata": false,
             "description": false,
             "height": 200,
             "background": "#F5F5F5"
         },
         {
-            "tag": "Software System Instance",
-            "background": "#F5F5F5"
-        },
-        {
             "tag": "Container Instance",
+            "metadata": false,
+            "description": false,
+            "height": 200,
             "background": "#F5F5F5"
         },
         {
@@ -29,7 +28,8 @@
         },
         {
             "tag": "#db",
-            "shape": "Cylinder"
+            "shape": "Cylinder",
+            "height": 250
         },
         {
             "tag": "#mobile",
