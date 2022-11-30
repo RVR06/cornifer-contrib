@@ -10,6 +10,14 @@
             "background": "#F5F5F5"
         },
         {
+            "tag": "Software System Instance",
+            "background": "#F5F5F5"
+        },
+        {
+            "tag": "Container Instance",
+            "background": "#F5F5F5"
+        },
+        {
             "tag": "Infrastructure Node",
             "shape": "RoundedBox",
             "metadata": true
