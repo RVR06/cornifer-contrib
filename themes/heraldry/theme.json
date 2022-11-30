@@ -131,7 +131,6 @@
             "tag": "#hitachi_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/hitachi.png"
         },
-
         {
             "tag": "#influxdb",
             "stroke": "#22ADF6",
@@ -139,7 +138,7 @@
             "icon": ""
         },
         {
-            "tag": "#influxdb",
+            "tag": "#influxdb_",
             "icon": ""
         },
         {
