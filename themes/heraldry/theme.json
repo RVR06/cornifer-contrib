@@ -3,11 +3,6 @@
     "description": "This theme includes element styles with icons for popular brands. (https://github.com/simple-icons/simple-icons).",
     "elements": [
         {
-            "tag": "Infrastructure Node",
-            "height": 200,
-            "shape": "RoundedBox"
-        },
-        {
             "tag": "#android",
             "stroke": "#3DDC84",
             "color": "#3DDC84",
@@ -25,6 +20,16 @@
         {
             "tag": "#ansys_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/ansys.png"
+        },
+        {
+            "tag": "#asynkron",
+            "stroke": "#8B42C7",
+            "color": "#8B42C7",
+            "icon": ""
+        },
+        {
+            "tag": "#asynkron_",
+            "icon": ""
         },
         {
             "tag": "#aws",
@@ -67,6 +72,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/docker.png"
         },
         {
+            "tag": "#edge",
+            "stroke": "##0078D7",
+            "color": "##0078D7",
+            "icon": ""
+        },
+        {
+            "tag": "#edge_",
+            "icon": ""
+        },
+        {
             "tag": "#electron",
             "stroke": "#47848F",
             "color": "#47848F",
@@ -75,6 +90,16 @@
         {
             "tag": "#electron_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/electron.png"
+        },
+        {
+            "tag": "#github",
+            "stroke": "#181717",
+            "color": "#181717",
+            "icon": ""
+        },
+        {
+            "tag": "#github_",
+            "icon": ""
         },
         {
             "tag": "#googlecloud",
@@ -105,6 +130,17 @@
         {
             "tag": "#hitachi_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/hitachi.png"
+        },
+
+        {
+            "tag": "#influxdb",
+            "stroke": "##22ADF6",
+            "color": "##22ADF6",
+            "icon": ""
+        },
+        {
+            "tag": "#influxdb",
+            "icon": ""
         },
         {
             "tag": "#jaeger",
@@ -167,6 +203,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/podman.png"
         },
         {
+            "tag": "#postgresql",
+            "stroke": "#4169E1",
+            "color": "#4169E1",
+            "icon": ""
+        },
+        {
+            "tag": "#postgresql_",
+            "icon": ""
+        },
+        {
             "tag": "#prometheus",
             "stroke": "#E6522C",
             "color": "#E6522C",
@@ -184,6 +230,16 @@
         },
         {
             "tag": "#tempo_",
+            "icon": ""
+        },
+        {
+            "tag": "#traefik",
+            "stroke": "#24A1C1",
+            "color": "#24A1C1",
+            "icon": ""
+        },
+        {
+            "tag": "#traefik_",
             "icon": ""
         },
         {

@@ -13,6 +13,43 @@
             "metadata": "false",
             "description": "false",
             "height": "150"
-        }
+        },
+        {
+            "tag": "Infrastructure Node",
+            "height": 200,
+            "shape": "RoundedBox"
+        },
+        {
+            "tag": "#web",
+            "shape": "WebBrowser"
+        },
+        {
+            "tag": "#db",
+            "shape": "Cylinder"
+        },
+        {
+            "tag": "#mobile",
+            "shape": "MobileDevicePortrait"
+        },
+        {
+            "tag": "#bot",
+            "shape": "Robot"
+        },
+        {
+            "tag": "#micro",
+            "shape": "Hexagon"
+        },
+        {
+            "tag": "#file",
+            "shape": "Folder"
+        },
+        {
+            "tag": "#pkg",
+            "shape": "Component"
+        },
+        {
+            "tag": "#bus",
+            "shape": "Pipe"
+        },
     ]
 }
