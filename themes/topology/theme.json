@@ -4,8 +4,8 @@
     "elements": [
         {
             "tag": "Element",
-            "metadata": "false",
-            "description": "false",
+            "metadata": false,
+            "description": false,
             "height": 200
         },
         {
