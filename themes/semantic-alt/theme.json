@@ -3,6 +3,10 @@
     "description": "This theme leverages semantic color schema to speed up visual segmentation.",
     "elements": [
         {
+            "tag": "Element",
+            "strokeWidth": 10
+        },
+        {
             "tag": "Person",
             "background": "#F5F5F5",
             "stroke": "#834187",
