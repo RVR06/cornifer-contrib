@@ -1,0 +1,97 @@
+{
+    "name": "Semantic",
+    "description": "This theme leverages semantic color schema to speed up visual segmentation.",
+    "elements": [
+        {
+            "tag": "Person",
+            "background": "#F5F5F5",
+            "stroke": "#834187",
+            "shape": "Person"
+        },
+        {
+            "tag": "Software System",
+            "background": "#F5F5F5",
+            "stroke": "#0c7cba"
+        },
+        {
+            "tag": "Container",
+            "background": "#F5F5F5",
+            "stroke": "#c92d39"
+        },
+        {
+            "tag": "Component",
+            "background": "#F5F5F5",
+            "stroke": "#7ab648"
+        },
+        {
+            "tag": "Infrastructure Node",
+            "background": "#F5F5F5",
+            "stroke": "#19967d",
+            "metadata": true, 
+            "description": false,
+            "height": 200,
+            "shape": "RoundedBox"
+        },
+        {
+            "tag": "Software System Instance",
+            "background": "#F5F5F5",
+            "stroke": "#0c7cba",
+            "metadata": false,
+            "description": false,
+            "height": 200
+        },
+        {
+            "tag": "Container Instance",
+            "background": "#F5F5F5",
+            "stroke": "#c92d39",
+            "metadata": false,
+            "description": false,
+            "height": 200
+        },
+        {
+            "tag": "#external",
+            "background": "#F5F5F5",
+            "stroke": "#666666"
+        },
+        {
+            "tag": "#api",
+            "height": 150
+        },
+        {
+            "tag": "#web",
+            "shape": "WebBrowser"
+        },
+        {
+            "tag": "#db",
+            "shape": "Cylinder"
+        },
+        {
+            "tag": "#mobile",
+            "shape": "MobileDevicePortrait"
+        },
+        {
+            "tag": "#bot",
+            "shape": "Robot"
+        },
+        {
+            "tag": "#micro",
+            "shape": "Hexagon"
+        },
+        {
+            "tag": "#file",
+            "shape": "Folder"
+        },
+        {
+            "tag": "#pkg",
+            "shape": "Component"
+        },
+        {
+            "tag": "#bus",
+            "shape": "Pipe"
+        },
+        {
+            "tag": "Relationship",
+            "routing": "Direct"
+        }
+    ]
+}
