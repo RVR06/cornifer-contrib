@@ -13,22 +13,19 @@
             "tag": "Software System",
             "background": "#CFE4FF",
             "stroke": "#0c7cba",
-            "strokeWidth": 8,
-            "shape": "RoundedBox"
+            "strokeWidth": 8
         },
         {
             "tag": "Container",
             "background": "#FFD9D9",
             "stroke": "#c92d39",
-            "strokeWidth": 8,
-            "shape": "RoundedBox"
+            "strokeWidth": 8
         },
         {
             "tag": "Component",
             "background": "#C3F7C8",
             "stroke": "#7ab648",
-            "strokeWidth": 8,
-            "shape": "RoundedBox"
+            "strokeWidth": 8
         },
         {
             "tag": "Deployment Node",
@@ -39,7 +36,7 @@
             "background": "#B8F5ED",
             "stroke": "#19967d",
             "strokeWidth": 8,
-            "shape": "Box",
+            "shape": "RoundedBox",
             "metadata": true, 
             "description": false,
             "height": 200
@@ -49,7 +46,6 @@
             "background": "#CFE4FF",
             "stroke": "#0c7cba",
             "strokeWidth": 8,
-            "shape": "RoundedBox",
             "metadata": false,
             "description": false,
             "height": 200
@@ -59,7 +55,6 @@
             "background": "#FFD9D9",
             "stroke": "#c92d39",
             "strokeWidth": 8,
-            "shape": "RoundedBox",
             "metadata": false,
             "description": false,
             "height": 200
@@ -68,8 +63,7 @@
             "tag": "#external",
             "background": "#F5F5F5",
             "stroke": "#666666",
-            "strokeWidth": 8,
-            "shape": "RoundedBox"
+            "strokeWidth": 8
         },
         {
             "tag": "#api",
