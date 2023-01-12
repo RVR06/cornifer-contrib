@@ -3,6 +3,10 @@
     "description": "This theme surfaces hexagonal mapping.",
     "elements": [
         {
+            "tag": "Element",
+            "strokeWidth": 8
+        },
+        {
             "tag": "#app",
             "background": "#b2d6ef",
             "stroke": "#0c7cba"
