@@ -1,0 +1,55 @@
+{
+    "name": "Shape",
+    "description": "This theme dicriminates elements leveraging shapes.",
+    "elements": [
+        {
+            "tag": "Element",
+            "strokeWidth": 8
+        },
+        {
+            "tag": "Person",
+            "shape": "Person"
+        },
+        {
+            "tag": "Deployment Node",
+            "strokeWidth": 5
+        },
+        {
+            "tag": "Infrastructure Node",
+            "shape": "RoundedBox",
+            "height": 200
+        },
+        {
+            "tag": "#web",
+            "shape": "WebBrowser"
+        },
+        {
+            "tag": "#db",
+            "shape": "Cylinder"
+        },
+        {
+            "tag": "#mobile",
+            "shape": "MobileDevicePortrait"
+        },
+        {
+            "tag": "#bot",
+            "shape": "Robot"
+        },
+        {
+            "tag": "#micro",
+            "shape": "Hexagon"
+        },
+        {
+            "tag": "#file",
+            "shape": "Folder"
+        },
+        {
+            "tag": "#pkg",
+            "shape": "Component"
+        },
+        {
+            "tag": "#bus",
+            "shape": "Pipe"
+        }
+    ]
+}
