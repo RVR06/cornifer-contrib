@@ -50,6 +50,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/microsoftazure.png"
         },
         {
+            "tag": "#daedalus",
+            "stroke": "#FF1493",
+            "color": "#FF1493",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/daedalus.png"
+        },
+        {
+            "tag": "#daedalus_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/daedalus.png"
+        },
+        {
             "tag": "#docker",
             "stroke": "#2496ED",
             "color": "#2496ED",
