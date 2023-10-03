@@ -103,6 +103,10 @@
         {
             "tag": "Relationship",
             "routing": "Direct"
+        },
+        {
+            "tag": "#desktop",
+            "shape": "Window"
         }
     ]
 }
