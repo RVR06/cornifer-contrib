@@ -107,6 +107,11 @@
         {
             "tag": "#desktop",
             "shape": "Window"
+        },
+        {
+            "tag": "#fwk",
+            "shape": "Component",
+            "metadata": false
         }
     ]
 }
