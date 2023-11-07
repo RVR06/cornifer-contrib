@@ -182,6 +182,16 @@
             "tag": "#loki_"
         },
         {
+            "tag": "#nginx",
+            "stroke": "#009639",
+            "color": "#009639",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/nginx.png"
+        },
+        {
+            "tag": "#nginx_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/nginx.png"
+        },
+        {
             "tag": "#otel",
             "stroke": "#000000",
             "color": "#000000",
