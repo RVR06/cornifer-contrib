@@ -182,6 +182,16 @@
             "tag": "#loki_"
         },
         {
+            "tag": "#mpi",
+            "stroke": "#0173BC",
+            "color": "#0173BC",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/mpi.png"
+        },
+        {
+            "tag": "#mpi_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/mpi.png"
+        },
+        {
             "tag": "#nginx",
             "stroke": "#009639",
             "color": "#009639",
@@ -214,10 +224,12 @@
         {
             "tag": "#postgresql",
             "stroke": "#4169E1",
-            "color": "#4169E1"
+            "color": "#4169E1",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/postgresql.png"
         },
         {
-            "tag": "#postgresql_"
+            "tag": "#postgresql_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/postgresql.png"
         },
         {
             "tag": "#prometheus",
@@ -229,6 +241,16 @@
             "tag": "#prometheus_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/prometheus.png"
         },
+        {
+            "tag": "#sqlite",
+            "stroke": "#003B57",
+            "color": "#003B57",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/sqlite.png"
+        },
+        {
+            "tag": "#sqlite_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/sqlite.png"
+        }, 
         {
             "tag": "#tempo",
             "stroke": "#F46800",
