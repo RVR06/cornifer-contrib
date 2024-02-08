@@ -20,6 +20,15 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/ansys.png"
         },
         {
+            "tag": "#aspire",
+            "stroke": "#512BD4",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/aspire.png"
+        },
+        {
+            "tag": "#aspire_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/aspire.png"
+        },
+        {
             "tag": "#asynkron",
             "stroke": "#8B42C7",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/asynkron.png"

@@ -22,6 +22,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/ansys.png"
         },
         {
+            "tag": "#aspire",
+            "stroke": "#512BD4",
+            "color": "#512BD4",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/aspire.png"
+        },
+        {
+            "tag": "#aspire_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/aspire.png"
+        },
+        {
             "tag": "#asynkron",
             "stroke": "#8B42C7",
             "color": "#8B42C7"
