@@ -242,6 +242,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/prometheus.png"
         },
         {
+            "tag": "#redis",
+            "stroke": "#DC382D",
+            "color": "#DC382D",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/redis.png"
+        },
+        {
+            "tag": "#redis_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/redis.png"
+        },
+        {
             "tag": "#sqlite",
             "stroke": "#003B57",
             "color": "#003B57",
@@ -268,6 +278,16 @@
         {
             "tag": "#traefik_"
         },
+        {
+            "tag": "#uvicorn",
+            "stroke": "#DA0D84",
+            "color": "#DA0D84",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/uvicorn.png"
+        },
+        {
+            "tag": "#uvicorn_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/uvicorn.png"
+        }, 
         {
             "tag": "#windows",
             "stroke": "#0078D6",
