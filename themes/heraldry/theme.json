@@ -92,10 +92,12 @@
         {
             "tag": "#edge",
             "stroke": "#0078D7",
-            "color": "#0078D7"
+            "color": "#0078D7",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/edge.png"
         },
         {
-            "tag": "#edge_"
+            "tag": "#edge_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/edge.png"
         },
         {
             "tag": "#electron",
@@ -302,11 +304,12 @@
         {
             "tag": "#traefik",
             "stroke": "#24A1C1",
-            "color": "#24A1C1"
-
+            "color": "#24A1C1",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/traefik.png"
         },
         {
-            "tag": "#traefik_"
+            "tag": "#traefik_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/traefik.png"
         },
         {
             "tag": "#uvicorn",
