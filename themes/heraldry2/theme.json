@@ -93,6 +93,7 @@
         },
         {
             "tag": "#fuji",
+            "stroke": "#FFB71B",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/fuji.png"
         },
         {
