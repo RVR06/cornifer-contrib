@@ -7,14 +7,16 @@
             "metadata": false,
             "description": false,
             "height": 200,
-            "background": "#F5F5F5"
+            "background": "#F5F5F5",
+            "strokeWidth": 8
         },
         {
             "tag": "Container Instance",
             "metadata": false,
             "description": false,
             "height": 200,
-            "background": "#F5F5F5"
+            "background": "#F5F5F5",
+            "strokeWidth": 8
         },
         {
             "tag": "Infrastructure Node",
@@ -22,6 +24,7 @@
             "description": false,
             "height": 200,
             "background": "#F5F5F5",
+            "strokeWidth": 8,
             "shape": "RoundedBox"
         },
         {
