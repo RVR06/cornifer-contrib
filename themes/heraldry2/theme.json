@@ -5,10 +5,10 @@
         {
             "tag": "#android",
             "stroke": "#3DDC84",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/android.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/android-color.png"
         },        {
             "tag": "#android_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/android.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/android-color.png"
         },
         {
             "tag": "#ansys",
@@ -72,6 +72,15 @@
         {
             "tag": "#bruno_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/bruno-color.png"
+        },
+        {
+            "tag": "#chrome",
+            "stroke": "#4285F4",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/chrome-color.png"
+        },
+        {
+            "tag": "#chrome_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/chrome-color.png"
         },
         {
             "tag": "#docker",
@@ -166,11 +175,11 @@
         {
             "tag": "#influxdb",
             "stroke": "#22ADF6",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/icons/logos/influxdb-color.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/icons/icons/influxdb-color.png"
         },
         {
             "tag": "#influxdb_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/icons/logos/influxdb-color.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/icons/icons/influxdb-color.png"
         },
         {
             "tag": "#jaeger",
@@ -193,11 +202,11 @@
         {
             "tag": "#k8s",
             "stroke": "#326CE5",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/kubernetes.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kubernetes-color.png"
         },
         {
             "tag": "#k8s_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/kubernetes.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kubernetes-color.png"
         },
         {
             "tag": "#keycloak",
@@ -238,56 +247,65 @@
         {
             "tag": "#minio",
             "stroke": "#C72E49",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/minio.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/minio-color.png"
         },
         {
             "tag": "#minio_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/minio.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/minio-color.png"
         },
         {
             "tag": "#neo4j",
             "stroke": "#4581C3",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/neo4j.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/neo4j-color.png"
         },
         {
             "tag": "#neo4j_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/neo4j.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/neo4j-color.png"
+        },
+        {
+            "tag": "#nginx",
+            "stroke": "#009639",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/nginx-color.png"
+        },
+        {
+            "tag": "#nginx_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/nginx-color.png"
         },
         {
             "tag": "#otel",
-            "stroke": "#000000",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/opentelemetry.png"
+            "stroke": "#F5A800",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/opentelemetry-color.png"
         },
         {
             "tag": "#otel_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/opentelemetry.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/opentelemetry-color.png"
         },
         {
             "tag": "#podman",
             "stroke": "#892CA0",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/podman.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/podman-color.png"
         },
         {
             "tag": "#podman_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/podman.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/podman-color.png"
         },
         {
             "tag": "#postgresql",
             "stroke": "#4169E1",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/postgresql.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/postgresql-color.png"
         },
         {
             "tag": "#postgresql_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/postgresql.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/postgresql-color.png"
         },
         {
             "tag": "#prometheus",
             "stroke": "#E6522C",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/prometheus.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/prometheus-color.png"
         },
         {
             "tag": "#prometheus_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/prometheus.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/prometheus-color.png"
         },
         {
             "tag": "#redis",
@@ -310,12 +328,12 @@
         {
             "tag": "#traefik",
             "stroke": "#24A1C1",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/traefik.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/traefik-color.png"
 
         },
         {
             "tag": "#traefik_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/traefik.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/traefik-color.png"
         },
         {
             "tag": "#uvicorn",
