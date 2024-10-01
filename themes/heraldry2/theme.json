@@ -11,6 +11,14 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/android-color.png"
         },
         {
+            "tag": "#angular",
+            "stroke": "#0F0F11",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/angular-color.png"
+        },        {
+            "tag": "#angular_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/angular-color.png"
+        },
+        {
             "tag": "#ansys",
             "stroke": "#FFB71B",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/ansys.png"
@@ -306,6 +314,15 @@
         {
             "tag": "#prometheus_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/prometheus-color.png"
+        },
+        {
+            "tag": "#python",
+            "stroke": "#3776AB",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/python-color.png"
+        },
+        {
+            "tag": "#python_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/python-color.png"
         },
         {
             "tag": "#redis",
