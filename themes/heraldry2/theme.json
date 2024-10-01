@@ -76,7 +76,7 @@
         {
             "tag": "#docker",
             "stroke": "#2496ED",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/docker-color.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/docker-color.png"
         },
         {
             "tag": "#docker_",
@@ -85,11 +85,11 @@
         {
             "tag": "#dockerCompose",
             "stroke": "#2496ED",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/docker-color.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/docker-color.png"
         },
         {
             "tag": "#dockerCompose_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/docker-color.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/docker-color.png"
         },
         {
             "tag": "#edge",
