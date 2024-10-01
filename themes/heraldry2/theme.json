@@ -76,20 +76,20 @@
         {
             "tag": "#docker",
             "stroke": "#2496ED",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/docker.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/docker-color.png"
         },
         {
             "tag": "#docker_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/docker.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/docker-color.png"
         },
         {
             "tag": "#dockerCompose",
             "stroke": "#2496ED",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/docker.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/docker-color.png"
         },
         {
             "tag": "#dockerCompose_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/docker.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/docker-color.png"
         },
         {
             "tag": "#edge",
@@ -108,6 +108,15 @@
         {
             "tag": "#electron_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/electron.png"
+        },
+        {
+            "tag": "#firefox",
+            "stroke": "#FF7139",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/firefox-color.png"
+        },
+        {
+            "tag": "#firefox_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/firefox-color.png"
         },
         {
             "tag": "#fuji",
