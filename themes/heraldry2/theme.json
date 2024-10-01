@@ -222,11 +222,11 @@
             "tag": "#minio",
             "stroke": "##C72E49",
             "color": "##C72E49",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/minio.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/minio.png"
         },
         {
             "tag": "#minio_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/minio.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/minio.png"
         },
         {
             "tag": "#neo4j",
