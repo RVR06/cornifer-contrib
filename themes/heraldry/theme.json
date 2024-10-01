@@ -70,6 +70,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/microsoftazure.png"
         },
         {
+            "tag": "#bruno",
+            "stroke": "#F4AA41",
+            "color": "#F4AA41",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/bruno.png"
+        },
+        {
+            "tag": "#bruno_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/bruno.png"
+        },
+        {
             "tag": "#daedalus",
             "stroke": "#FF1493",
             "color": "#FF1493",
