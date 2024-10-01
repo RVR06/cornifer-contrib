@@ -67,7 +67,6 @@
         {
             "tag": "#bruno",
             "stroke": "#F4AA41",
-            "color": "#F4AA41",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/bruno.png"
         },
         {
@@ -220,8 +219,7 @@
         },
         {
             "tag": "#minio",
-            "stroke": "##C72E49",
-            "color": "##C72E49",
+            "stroke": "#C72E49",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/minio.png"
         },
         {
@@ -231,7 +229,6 @@
         {
             "tag": "#neo4j",
             "stroke": "#4581C3",
-            "color": "#4581C3",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/neo4j.png"
         },
         {
