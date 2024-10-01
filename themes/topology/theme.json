@@ -3,20 +3,27 @@
     "description": "This theme emphasizes infrastructure topology, while minimizing software footprint.",
     "elements": [
         {
+            "tag": "#external",
+            "background": "#F5F5F5",
+            "stroke": "#DDDDDD"
+        },
+        {
             "tag": "Software System Instance",
             "metadata": false,
             "description": false,
             "height": 200,
-            "background": "#F5F5F5",
-            "strokeWidth": 8
+            "background": "#848484",
+            "strokeWidth": 8,
+            "stroke": "#000000"
         },
         {
             "tag": "Container Instance",
             "metadata": false,
             "description": false,
             "height": 200,
-            "background": "#F5F5F5",
-            "strokeWidth": 8
+            "background": "#848484",
+            "strokeWidth": 8,
+            "stroke": "#000000"
         },
         {
             "tag": "Infrastructure Node",
@@ -25,7 +32,12 @@
             "height": 200,
             "background": "#F5F5F5",
             "strokeWidth": 8,
-            "shape": "RoundedBox"
+            "shape": "RoundedBox",
+            "stroke": "#19967d"
+        },
+        {
+            "tag": "Deployment Node",
+            "strokeWidth": 5
         },
         {
             "tag": "#web",
