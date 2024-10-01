@@ -103,11 +103,11 @@
         {
             "tag": "#electron",
             "stroke": "#47848F",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/electron.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/electron-color.png"
         },
         {
             "tag": "#electron_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/electron.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/electron-color.png"
         },
         {
             "tag": "#firefox",
@@ -130,29 +130,29 @@
         {
             "tag": "#github",
             "stroke": "#181717",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/github.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/github-color.png"
         },
         {
             "tag": "#github_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/github.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/github-color.png"
         },
         {
             "tag": "#googlecloud",
             "stroke": "#4285F4",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/googlecloud.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/googlecloud-color.png"
         },
         {
             "tag": "#googlecloud_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/googlecloud.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/googlecloud-color.png"
         },
         {
             "tag": "#grafana",
             "stroke": "#F46800",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/grafana.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/grafana-color.png"
         },
         {
             "tag": "#grafana_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/grafana.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/grafana-color.png"
         },
         {
             "tag": "#hitachi",
@@ -166,11 +166,11 @@
         {
             "tag": "#influxdb",
             "stroke": "#22ADF6",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/influxdb.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/icons/logos/influxdb-color.png"
         },
         {
             "tag": "#influxdb_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/influxdb.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/icons/logos/influxdb-color.png"
         },
         {
             "tag": "#jaeger",
@@ -180,6 +180,15 @@
         {
             "tag": "#jaeger_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/jaeger.png"
+        },
+        {
+            "tag": "#k6",
+            "stroke": "#326CE5",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/k6-color.png"
+        },
+        {
+            "tag": "#k6_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/k6-color.png"
         },
         {
             "tag": "#k8s",
@@ -193,11 +202,11 @@
         {
             "tag": "#keycloak",
             "stroke": "#00B8E3",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/keycloak.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/keycloak-color.png"
         },
         {
             "tag": "#keycloak_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/keycloak.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/keycloak-color.png"
         },
         {
             "tag": "#keydb",
@@ -211,11 +220,11 @@
         {
             "tag": "#linux",
             "stroke": "#FCC624",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/linux.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/linux-color.png"
         },
         {
             "tag": "#linux_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/linux.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/linux-color.png"
         },
         {
             "tag": "#loki",
