@@ -3,6 +3,10 @@
     "description": "This theme emphasizes infrastructure topology, while minimizing software footprint.",
     "elements": [
         {
+            "tag": "Element",
+            "strokeWidth": 8
+        },
+        {
             "tag": "#external",
             "background": "#F5F5F5",
             "stroke": "#DDDDDD"
@@ -13,7 +17,6 @@
             "description": false,
             "height": 200,
             "background": "#CCCCCC",
-            "strokeWidth": 8,
             "stroke": "#000000"
         },
         {
@@ -22,7 +25,6 @@
             "description": false,
             "height": 200,
             "background": "#CCCCCC",
-            "strokeWidth": 8,
             "stroke": "#000000"
         },
         {
@@ -31,7 +33,6 @@
             "description": false,
             "height": 200,
             "background": "#F5F5F5",
-            "strokeWidth": 8,
             "shape": "RoundedBox",
             "stroke": "#19967d"
         },
