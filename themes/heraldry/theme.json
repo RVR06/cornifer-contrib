@@ -355,6 +355,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/python.png"
         },
         {
+            "tag": "#rabbitmq",
+            "stroke": "#FF6600",
+            "color": "#FF6600",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/rabbitmq.png"
+        },
+        {
+            "tag": "#rabbitmq_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/rabbitmq.png"
+        },
+        {
             "tag": "#redis",
             "stroke": "#DC382D",
             "color": "#DC382D",
