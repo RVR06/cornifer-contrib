@@ -361,6 +361,15 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/redis-color.png"
         },
         {
+            "tag": "#slack",
+            "stroke": "#4A154B",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/slack-color.png"
+        },
+        {
+            "tag": "#slack_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/slack-color.png"
+        }, 
+        {
             "tag": "#sqlite",
             "stroke": "#003B57",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/sqlite-color.png"

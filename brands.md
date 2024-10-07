@@ -8,6 +8,7 @@ electron    #47848F
 elixir      #4B275F
 fastapi     #009688
 firefox     #FF7139
+flask       #000000
 fortran     #734F96
 github      #181717
 go          #00ADD8
@@ -20,6 +21,7 @@ k6          #7D64FF
 keycloak    #4D4D4D
 kubernetes  #326CE5
 linux       #FCC624
+metabase    #509EE3
 minio       #C72E49
 mongodb     #47A248
 neo4j       #4581C3
@@ -31,12 +33,15 @@ podman      #892CA0
 postgresql  #4169E1
 postman     #FF6C37
 prometheus  #E6522C
+pulumi      #8A3391
+pytorch     #EE4C2C
 rabbitmq    #FF6600
 react       #61DAFB
 reactivex   #B7178C
 redis       #FF4438
 rust        #000000
 sqlite      #003B57
+slack       #4A154B
 swagger     #85EA2D
 terraform   #844FBA
 traefik     #24A1C1
