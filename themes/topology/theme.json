@@ -3,6 +3,10 @@
     "description": "This theme emphasizes infrastructure topology, while minimizing software footprint.",
     "elements": [
         {
+            "tag": "Person",
+            "shape": "Person"
+        },
+        {
             "tag": "Element",
             "strokeWidth": 8
         },
