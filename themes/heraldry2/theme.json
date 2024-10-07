@@ -410,11 +410,11 @@
         {
             "tag": "#vue",
             "stroke": "#4FC08D",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vue-color.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs-color.png"
         },
         {
             "tag": "#vue_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vue-color.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs-color.png"
         },
         {
             "tag": "#windows",
