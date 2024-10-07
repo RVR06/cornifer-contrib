@@ -41,3 +41,4 @@ swagger     #85EA2D
 terraform   #844FBA
 traefik     #24A1C1
 typescript  #3178C6
+vue         #4FC08D

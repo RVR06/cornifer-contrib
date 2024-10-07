@@ -442,7 +442,17 @@
         {
             "tag": "#uvicorn_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/uvicorn.png"
-        }, 
+        },
+        {
+            "tag": "#vue",
+            "stroke": "#4FC08D",
+            "color": "#4FC08D",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vue.png"
+        },
+        {
+            "tag": "#vue_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vue.png"
+        },
         {
             "tag": "#windows",
             "stroke": "#0078D6",
