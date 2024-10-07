@@ -275,6 +275,16 @@
             "tag": "#loki_"
         },
         {
+            "tag": "#metabase",
+            "stroke": "#C72E49",
+            "color": "#C72E49",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/metabase.png"
+        },
+        {
+            "tag": "#metabase_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/metabase.png"
+        },
+        {
             "tag": "#minio",
             "stroke": "#C72E49",
             "color": "#C72E49",
