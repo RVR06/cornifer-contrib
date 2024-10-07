@@ -4,7 +4,8 @@ caddy       #1F88C0
 chrome      #4285F4
 datadog     #632CA6
 docker      #2496ED
-emlectron   #47848F
+electron    #47848F
+elixir      #4B275F
 fastapi     #009688
 firefox     #FF7139
 fortran     #734F96
@@ -25,6 +26,7 @@ neo4j       #4581C3
 nginx       #009639
 opera       #FF1B2D
 otel        #F5A800
+phoenix     #FD4F00
 podman      #892CA0
 postgresql  #4169E1
 postman     #FF6C37
