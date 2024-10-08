@@ -385,6 +385,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/python.png"
         },
         {
+            "tag": "#pytorch",
+            "stroke": "#EE4C2C",
+            "color": "#EE4C2C",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/pytorch.png"
+        },
+        {
+            "tag": "#pytorch_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/pytorch.png"
+        },
+        {
             "tag": "#rabbitmq",
             "stroke": "#FF6600",
             "color": "#FF6600",
@@ -403,6 +413,16 @@
         {
             "tag": "#redis_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/redis.png"
+        },
+        {
+            "tag": "#rust",
+            "stroke": "#000000",
+            "color": "#000000",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/rust.png"
+        },
+        {
+            "tag": "#rust_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/rust.png"
         },
         {
             "tag": "#slack",
