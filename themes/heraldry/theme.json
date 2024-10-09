@@ -3,6 +3,15 @@
     "description": "This theme includes element styles with icons for popular brands. (https://github.com/simple-icons/simple-icons).",
     "elements": [
         {
+            "tag": "#aim",
+            "stroke": "#9923B5",
+            "color": "#9923B5",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/aim.png"
+        },        {
+            "tag": "#aim_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/aim.png"
+        },
+        {
             "tag": "#android",
             "stroke": "#3DDC84",
             "color": "#3DDC84",
@@ -482,6 +491,16 @@
         {
             "tag": "#traefik_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/traefikproxy.png"
+        },
+        {
+            "tag": "#trow",
+            "stroke": "#1ED6B3",
+            "color": "#1ED6B3",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/trow.png"
+        },
+        {
+            "tag": "#trow_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/trow.png"
         },
         {
             "tag": "#uvicorn",
