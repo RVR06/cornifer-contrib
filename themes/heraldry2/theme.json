@@ -233,6 +233,15 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/jaeger.png"
         },
         {
+            "tag": "#jupyter",
+            "stroke": "#F37626",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jupyter-color.png"
+        },
+        {
+            "tag": "#jupyter_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jupyter-color.png"
+        },
+        {
             "tag": "#k6",
             "stroke": "#326CE5",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/k6-color.png"

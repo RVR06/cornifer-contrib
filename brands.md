@@ -19,6 +19,7 @@ grafana     #F46800
 helm        #0F1689
 influxdb    #22ADF6
 javascript  #F7DF1E
+jupyter     #F37626
 k6          #7D64FF
 keycloak    #4D4D4D
 kubernetes  #326CE5

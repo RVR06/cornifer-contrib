@@ -255,6 +255,16 @@
             "tag": "#jaeger_"
         },
         {
+            "tag": "#jupyter",
+            "stroke": "#F37626",
+            "color": "#F37626",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jupyter.png"
+        },
+        {
+            "tag": "#jupyter_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jupyter.png"
+        },
+        {
             "tag": "#k6",
             "stroke": "#326CE5",
             "color": "#326CE5",
