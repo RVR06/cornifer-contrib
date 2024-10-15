@@ -137,6 +137,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/docker.png"
         },
         {
+            "tag": "#drawio",
+            "stroke": "#F08705",
+            "color": "#F08705",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/diagramsdotnet.png"
+        },
+        {
+            "tag": "#drawio_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/diagramsdotnet.png"
+        },
+        {
             "tag": "#edge",
             "stroke": "#0078D7",
             "color": "#0078D7",

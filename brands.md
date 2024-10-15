@@ -1,9 +1,11 @@
 android     #34A853
+bash        #4EAA25
 c++         #00599C
 caddy       #1F88C0
 chrome      #4285F4
 datadog     #632CA6
 docker      #2496ED
+drawio      #F08705
 electron    #47848F
 elixir      #4B275F
 fastapi     #009688
