@@ -26,6 +26,7 @@ kubernetes  #326CE5
 linux       #FCC624
 metabase    #509EE3
 minio       #C72E49
+mockoon     #242830
 mongodb     #47A248
 neo4j       #4581C3
 nginx       #009639
