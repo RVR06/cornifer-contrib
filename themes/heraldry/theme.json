@@ -97,6 +97,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/bash.png"
         },
         {
+            "tag": "#bentley",
+            "stroke": "#333333",
+            "color": "#333333",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/bentley.png"
+        },
+        {
+            "tag": "#bentley_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/bentley.png"
+        },
+        {
             "tag": "#bruno",
             "stroke": "#F4AA41",
             "color": "#F4AA41",
@@ -175,6 +185,16 @@
         {
             "tag": "#elixir_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/elixir.png"
+        },
+        {
+            "tag": "#ferrari",
+            "stroke": "#D40000",
+            "color": "#D40000",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/ferrari.png"
+        },
+        {
+            "tag": "#ferrari_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/ferrari.png"
         },
         {
             "tag": "#firefox",
@@ -257,6 +277,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jaeger.png"
         },
         {
+            "tag": "#jaguar",
+            "stroke": "#FFFFFF",
+            "color": "#FFFFFF",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jaguar.png"
+        },
+        {
+            "tag": "#jaguar_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jaguar.png"
+        },
+        {
             "tag": "#jupyter",
             "stroke": "#F37626",
             "color": "#F37626",
@@ -313,6 +343,16 @@
         },
         {
             "tag": "#loki_"
+        },
+        {
+            "tag": "#maserati",
+            "stroke": "#0C2340",
+            "color": "#0C2340",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/maserati.png"
+        },
+        {
+            "tag": "#maserati_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/maserati.png"
         },
         {
             "tag": "#metabase",
@@ -403,6 +443,16 @@
         {
             "tag": "#podman_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/podman.png"
+        },
+        {
+            "tag": "#porsche",
+            "stroke": "#B12B28",
+            "color": "#B12B28",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/porsche.png"
+        },
+        {
+            "tag": "#porsche_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/porsche.png"
         },
         {
             "tag": "#postgresql",
