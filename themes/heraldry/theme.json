@@ -337,6 +337,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/karpenter.png"
         },
         {
+            "tag": "#keda",
+            "stroke": "#326DE6",
+            "color": "#326DE6",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/keda.png"
+        },
+        {
+            "tag": "#keda_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/keda.png"
+        },
+        {
             "tag": "#keycloak",
             "stroke": "#00B8E3",
             "color": "#00B8E3",
@@ -345,6 +355,16 @@
         {
             "tag": "#keycloak_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/keycloak.png"
+        },
+        {
+            "tag": "#kyverno",
+            "stroke": "#E87E5B",
+            "color": "#E87E5B",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kyverno.png"
+        },
+        {
+            "tag": "#kyverno_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kyverno.png"
         },
         {
             "tag": "#linux",
