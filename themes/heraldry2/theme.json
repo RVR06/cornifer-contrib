@@ -107,6 +107,15 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/bruno-color.png"
         },
         {
+            "tag": "#cert-manager",
+            "stroke": "#326CE5",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/cert-manager-color.png"
+        },
+        {
+            "tag": "#cert-manager_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/cert-manager-color.png"
+        },
+        {
             "tag": "#chrome",
             "stroke": "#4285F4",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/chrome-color.png"
