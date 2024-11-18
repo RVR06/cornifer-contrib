@@ -267,6 +267,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/grafana.png"
         },
         {
+            "tag": "#helm",
+            "stroke": "#0F1689",
+            "color": "#0F1689",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/helm.png"
+        },
+        {
+            "tag": "#helm_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/helm.png"
+        },
+        {
             "tag": "#hitachi",
             "stroke": "#E60027",
             "color": "#E60027",
