@@ -664,6 +664,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs.png"
         },
         {
+            "tag": "#vscode",
+            "stroke": "#0089D2",
+            "color": "#0089D2",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vscode.png"
+        },
+        {
+            "tag": "#vscode_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vscode.png"
+        },
+        {
             "tag": "#windows",
             "stroke": "#0078D6",
             "color": "#0078D6",
