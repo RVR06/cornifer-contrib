@@ -387,6 +387,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kyverno.png"
         },
         {
+            "tag": "#lens",
+            "stroke": "#3D90CE",
+            "color": "#3D90CE",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/lens.png"
+        },
+        {
+            "tag": "#lens_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/lens.png"
+        },
+        {
             "tag": "#linux",
             "stroke": "#FCC624",
             "color": "#FCC624",
