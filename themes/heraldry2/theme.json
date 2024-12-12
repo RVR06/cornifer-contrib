@@ -103,6 +103,15 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/bruno-color.png"
         },
         {
+            "tag": "#caddy",
+            "stroke": "#1F88C0",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/caddy-color.svg"
+        },
+        {
+            "tag": "#caddy_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/caddy-color.svg"
+        },
+        {
             "tag": "#bruno_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/bruno-color.png"
         },
