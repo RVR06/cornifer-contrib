@@ -72,6 +72,33 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/amazonaws.png"
         },
         {
+            "tag": "#aws_ecs",
+            "stroke": "###FF9900",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazonecs-color.png"
+        },
+        {
+            "tag": "#aws_ecs_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazonecs-color.png"
+        },
+        {
+            "tag": "#aws_eks",
+            "stroke": "###FF9900",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazoneks-color.png"
+        },
+        {
+            "tag": "#aws_eks_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazoneks-color.png"
+        },
+        {
+            "tag": "#aws_elb",
+            "stroke": "##8C4FFF",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/awselasticloadbalancing-color.png"
+        },
+        {
+            "tag": "#aws_elb_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/awselasticloadbalancing-color.png"
+        },
+        {
             "tag": "#azure",
             "stroke": "#0078D4",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/microsoftazure.png"
@@ -105,11 +132,11 @@
         {
             "tag": "#caddy",
             "stroke": "#1F88C0",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/caddy-color.svg"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/caddy-color.png"
         },
         {
             "tag": "#caddy_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/caddy-color.svg"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/caddy-color.png"
         },
         {
             "tag": "#bruno_",

@@ -78,6 +78,36 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazonaws.png"
         },
         {
+            "tag": "#aws_ecs",
+            "stroke": "###FF9900",
+            "color": "###FF9900",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazonecs.png"
+        },
+        {
+            "tag": "#aws_ecs_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazonecs.png"
+        },
+        {
+            "tag": "#aws_eks",
+            "stroke": "###FF9900",
+            "color": "###FF9900",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazoneks.png"
+        },
+        {
+            "tag": "#aws_eks_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazoneks.png"
+        },
+        {
+            "tag": "#aws_elb",
+            "stroke": "##8C4FFF",
+            "color": "##8C4FFF",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/awselasticloadbalancing.png"
+        },
+        {
+            "tag": "#aws_elb_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/awselasticloadbalancing.png"
+        },
+        {
             "tag": "#azure",
             "stroke": "#0078D4",
             "color": "#0078D4",
@@ -120,11 +150,11 @@
             "tag": "#caddy",
             "stroke": "#1F88C0",
             "color": "#1F88C0",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/caddy.svg"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/caddy.png"
         },
         {
             "tag": "#caddy_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/caddy.svg"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/caddy.png"
         },
         {
             "tag": "#cert-manager",
