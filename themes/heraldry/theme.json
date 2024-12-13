@@ -79,33 +79,33 @@
         },
         {
             "tag": "#aws_ecs",
-            "stroke": "###FF9900",
-            "color": "###FF9900",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazonecs.png"
+            "stroke": "#FF9900",
+            "color": "#FF9900",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazonecs.png"
         },
         {
             "tag": "#aws_ecs_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazonecs.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazonecs.png"
         },
         {
             "tag": "#aws_eks",
-            "stroke": "###FF9900",
-            "color": "###FF9900",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazoneks.png"
+            "stroke": "#FF9900",
+            "color": "#FF9900",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazoneks.png"
         },
         {
             "tag": "#aws_eks_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazoneks.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazoneks.png"
         },
         {
             "tag": "#aws_elb",
-            "stroke": "##8C4FFF",
-            "color": "##8C4FFF",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/awselasticloadbalancing.png"
+            "stroke": "#8C4FFF",
+            "color": "#8C4FFF",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/awselasticloadbalancing.png"
         },
         {
             "tag": "#aws_elb_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/awselasticloadbalancing.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/awselasticloadbalancing.png"
         },
         {
             "tag": "#azure",

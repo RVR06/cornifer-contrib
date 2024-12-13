@@ -73,30 +73,30 @@
         },
         {
             "tag": "#aws_ecs",
-            "stroke": "###FF9900",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazonecs-color.png"
+            "stroke": "#FF9900",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazonecs-color.png"
         },
         {
             "tag": "#aws_ecs_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazonecs-color.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazonecs-color.png"
         },
         {
             "tag": "#aws_eks",
-            "stroke": "###FF9900",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazoneks-color.png"
+            "stroke": "#FF9900",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazoneks-color.png"
         },
         {
             "tag": "#aws_eks_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazoneks-color.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazoneks-color.png"
         },
         {
             "tag": "#aws_elb",
-            "stroke": "##8C4FFF",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/awselasticloadbalancing-color.png"
+            "stroke": "#8C4FFF",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/awselasticloadbalancing-color.png"
         },
         {
             "tag": "#aws_elb_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/awselasticloadbalancing-color.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/awselasticloadbalancing-color.png"
         },
         {
             "tag": "#azure",
