@@ -5,34 +5,33 @@
         {
             "tag": "#aim",
             "stroke": "#9923B5",
-            "color": "#9923B5",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/aim.png"
-        },        {
+        },
+        {
             "tag": "#aim_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/aim.png"
         },
         {
             "tag": "#android",
             "stroke": "#3DDC84",
-            "color": "#3DDC84",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/android.png"
-        },        {
+        },
+        {
             "tag": "#android_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/android.png"
         },
         {
             "tag": "#angular",
             "stroke": "#0F0F11",
-            "color": "#0F0F11",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/angular.png"
-        },        {
+        },
+        {
             "tag": "#angular_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/angular.png"
         },
         {
             "tag": "#ansys",
             "stroke": "#FFB71B",
-            "color": "#FFB71B",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/ansys.png"
         },
         {
@@ -42,7 +41,6 @@
         {
             "tag": "#apisix",
             "stroke": "#F60B05",
-            "color": "#F60B05",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/apisix.png"
         },
         {
@@ -52,7 +50,6 @@
         {
             "tag": "#aspire",
             "stroke": "#512BD4",
-            "color": "#512BD4",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/aspire.png"
         },
         {
@@ -61,8 +58,7 @@
         },
         {
             "tag": "#asynkron",
-            "stroke": "#8B42C7",
-            "color": "#8B42C7"
+            "stroke": "#8B42C7"
         },
         {
             "tag": "#asynkron_"
@@ -70,7 +66,6 @@
         {
             "tag": "#aws",
             "stroke": "#232F3E",
-            "color": "#232F3E",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/amazonaws.png"
         },
         {
@@ -80,7 +75,6 @@
         {
             "tag": "#aws_ecs",
             "stroke": "#FF9900",
-            "color": "#FF9900",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazonecs.png"
         },
         {
@@ -90,7 +84,6 @@
         {
             "tag": "#aws_eks",
             "stroke": "#FF9900",
-            "color": "#FF9900",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazoneks.png"
         },
         {
@@ -100,7 +93,6 @@
         {
             "tag": "#aws_elb",
             "stroke": "#8C4FFF",
-            "color": "#8C4FFF",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/awselasticloadbalancing.png"
         },
         {
@@ -110,7 +102,6 @@
         {
             "tag": "#azure",
             "stroke": "#0078D4",
-            "color": "#0078D4",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/microsoftazure.png"
         },
         {
@@ -120,16 +111,15 @@
         {
             "tag": "#bash",
             "stroke": "#4EAA25",
-            "color": "#4EAA25",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/bash.png"
-        },        {
+        },
+        {
             "tag": "#bash_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/bash.png"
         },
         {
             "tag": "#bentley",
             "stroke": "#333333",
-            "color": "#333333",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/bentley.png"
         },
         {
@@ -139,7 +129,6 @@
         {
             "tag": "#bruno",
             "stroke": "#F4AA41",
-            "color": "#F4AA41",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/bruno.png"
         },
         {
@@ -149,7 +138,6 @@
         {
             "tag": "#caddy",
             "stroke": "#1F88C0",
-            "color": "#1F88C0",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/caddy.png"
         },
         {
@@ -159,7 +147,6 @@
         {
             "tag": "#cert-manager",
             "stroke": "#326CE5",
-            "color": "#326CE5",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/cert-manager.png"
         },
         {
@@ -169,7 +156,6 @@
         {
             "tag": "#daedalus",
             "stroke": "#FF1493",
-            "color": "#FF1493",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/daedalus.png"
         },
         {
@@ -179,7 +165,6 @@
         {
             "tag": "#docker",
             "stroke": "#2496ED",
-            "color": "#2496ED",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/docker.png"
         },
         {
@@ -189,7 +174,6 @@
         {
             "tag": "#dockerCompose",
             "stroke": "#2496ED",
-            "color": "#2496ED",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/docker.png"
         },
         {
@@ -199,7 +183,6 @@
         {
             "tag": "#dotnet",
             "stroke": "#512BD4",
-            "color": "#512BD4",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/dotnet.png"
         },
         {
@@ -209,7 +192,6 @@
         {
             "tag": "#drawio",
             "stroke": "#F08705",
-            "color": "#F08705",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/diagramsdotnet.png"
         },
         {
@@ -219,7 +201,6 @@
         {
             "tag": "#edge",
             "stroke": "#0078D7",
-            "color": "#0078D7",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/edge.png"
         },
         {
@@ -229,7 +210,6 @@
         {
             "tag": "#electron",
             "stroke": "#47848F",
-            "color": "#47848F",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/electron.png"
         },
         {
@@ -239,7 +219,6 @@
         {
             "tag": "#elixir",
             "stroke": "#4B275F",
-            "color": "#4B275F",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/elixir.png"
         },
         {
@@ -249,7 +228,6 @@
         {
             "tag": "#ferrari",
             "stroke": "#D40000",
-            "color": "#D40000",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/ferrari.png"
         },
         {
@@ -259,7 +237,6 @@
         {
             "tag": "#firefox",
             "stroke": "#FF7139",
-            "color": "#FF7139",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/firefox.png"
         },
         {
@@ -269,7 +246,6 @@
         {
             "tag": "#fuji",
             "stroke": "#FFB71B",
-            "color": "#FFB71B",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/fuji.png"
         },
         {
@@ -279,7 +255,6 @@
         {
             "tag": "#github",
             "stroke": "#181717",
-            "color": "#181717",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/github.png"
         },
         {
@@ -289,7 +264,6 @@
         {
             "tag": "#googlecloud",
             "stroke": "#4285F4",
-            "color": "#4285F4",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/googlecloud.png"
         },
         {
@@ -299,7 +273,6 @@
         {
             "tag": "#grafana",
             "stroke": "#F46800",
-            "color": "#F46800",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/grafana.png"
         },
         {
@@ -309,7 +282,6 @@
         {
             "tag": "#helm",
             "stroke": "#0F1689",
-            "color": "#0F1689",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/helm.png"
         },
         {
@@ -319,7 +291,6 @@
         {
             "tag": "#hitachi",
             "stroke": "#E60027",
-            "color": "#E60027",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/hitachi.png"
         },
         {
@@ -329,7 +300,6 @@
         {
             "tag": "#influxdb",
             "stroke": "#22ADF6",
-            "color": "#22ADF6",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/influxdb.png"
         },
         {
@@ -339,7 +309,6 @@
         {
             "tag": "#jaeger",
             "stroke": "#66CFE3",
-            "color": "#66CFE3",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jaeger.png"
         },
         {
@@ -349,7 +318,6 @@
         {
             "tag": "#jaguar",
             "stroke": "#FFFFFF",
-            "color": "#FFFFFF",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jaguar.png"
         },
         {
@@ -359,7 +327,6 @@
         {
             "tag": "#jupyter",
             "stroke": "#F37626",
-            "color": "#F37626",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jupyter.png"
         },
         {
@@ -369,7 +336,6 @@
         {
             "tag": "#k6",
             "stroke": "#326CE5",
-            "color": "#326CE5",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/k6.png"
         },
         {
@@ -379,7 +345,6 @@
         {
             "tag": "#k8s",
             "stroke": "#326CE5",
-            "color": "#326CE5",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kubernetes.png"
         },
         {
@@ -389,7 +354,6 @@
         {
             "tag": "#karpenter",
             "stroke": "#5C62B0",
-            "color": "#5C62B0",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/karpenter.png"
         },
         {
@@ -399,7 +363,6 @@
         {
             "tag": "#keda",
             "stroke": "#326DE6",
-            "color": "#326DE6",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/keda.png"
         },
         {
@@ -409,7 +372,6 @@
         {
             "tag": "#keycloak",
             "stroke": "#00B8E3",
-            "color": "#00B8E3",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/keycloak.png"
         },
         {
@@ -419,7 +381,6 @@
         {
             "tag": "#kyverno",
             "stroke": "#E87E5B",
-            "color": "#E87E5B",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kyverno.png"
         },
         {
@@ -429,7 +390,6 @@
         {
             "tag": "#lens",
             "stroke": "#3D90CE",
-            "color": "#3D90CE",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/lens.png"
         },
         {
@@ -439,7 +399,6 @@
         {
             "tag": "#linux",
             "stroke": "#FCC624",
-            "color": "#FCC624",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/linux.png"
         },
         {
@@ -449,7 +408,6 @@
         {
             "tag": "#loki",
             "stroke": "#F46800",
-            "color": "#F46800"
         },
         {
             "tag": "#loki_"
@@ -457,7 +415,6 @@
         {
             "tag": "#maserati",
             "stroke": "#0C2340",
-            "color": "#0C2340",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/maserati.png"
         },
         {
@@ -467,7 +424,6 @@
         {
             "tag": "#metabase",
             "stroke": "#509EE3",
-            "color": "#509EE3",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/metabase.png"
         },
         {
@@ -477,7 +433,6 @@
         {
             "tag": "#minio",
             "stroke": "#C72E49",
-            "color": "#C72E49",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/minio.png"
         },
         {
@@ -487,7 +442,6 @@
         {
             "tag": "#mockoon",
             "stroke": "#242830",
-            "color": "#242830",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/mockoon.png"
         },
         {
@@ -497,7 +451,6 @@
         {
             "tag": "#mpi",
             "stroke": "#0173BC",
-            "color": "#0173BC",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/mpi.png"
         },
         {
@@ -507,7 +460,6 @@
         {
             "tag": "#neo4j",
             "stroke": "#4581C3",
-            "color": "#4581C3",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/neo4j.png"
         },
         {
@@ -517,7 +469,6 @@
         {
             "tag": "#nginx",
             "stroke": "#009639",
-            "color": "#009639",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/nginx.png"
         },
         {
@@ -527,7 +478,6 @@
         {
             "tag": "#otel",
             "stroke": "#F5A800",
-            "color": "#F5A800",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/opentelemetry.png"
         },
         {
@@ -537,7 +487,6 @@
         {
             "tag": "#phoenix",
             "stroke": "#FD4F00",
-            "color": "#FD4F00",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/phoenix.png"
         },
         {
@@ -547,7 +496,6 @@
         {
             "tag": "#podman",
             "stroke": "#892CA0",
-            "color": "#892CA0",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/podman.png"
         },
         {
@@ -557,7 +505,6 @@
         {
             "tag": "#porsche",
             "stroke": "#B12B28",
-            "color": "#B12B28",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/porsche.png"
         },
         {
@@ -567,7 +514,6 @@
         {
             "tag": "#postgresql",
             "stroke": "#4169E1",
-            "color": "#4169E1",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/postgresql.png"
         },
         {
@@ -577,7 +523,6 @@
         {
             "tag": "#prometheus",
             "stroke": "#E6522C",
-            "color": "#E6522C",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/prometheus.png"
         },
         {
@@ -587,7 +532,6 @@
         {
             "tag": "#pulumi",
             "stroke": "#8A3391",
-            "color": "#8A3391",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/pulumi.png"
         },
         {
@@ -597,7 +541,6 @@
         {
             "tag": "#python",
             "stroke": "#3776AB",
-            "color": "#3776AB",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/python.png"
         },
         {
@@ -607,7 +550,6 @@
         {
             "tag": "#pytorch",
             "stroke": "#EE4C2C",
-            "color": "#EE4C2C",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/pytorch.png"
         },
         {
@@ -617,7 +559,6 @@
         {
             "tag": "#rabbitmq",
             "stroke": "#FF6600",
-            "color": "#FF6600",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/rabbitmq.png"
         },
         {
@@ -627,7 +568,6 @@
         {
             "tag": "#redis",
             "stroke": "#DC382D",
-            "color": "#DC382D",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/redis.png"
         },
         {
@@ -637,7 +577,6 @@
         {
             "tag": "#rust",
             "stroke": "#000000",
-            "color": "#000000",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/rust.png"
         },
         {
@@ -647,37 +586,33 @@
         {
             "tag": "#s3",
             "stroke": "#569A31",
-            "color": "#569A31",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazons3.png"
         },
         {
             "tag": "#s3_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazons3.png"
-        }, 
+        },
         {
             "tag": "#slack",
             "stroke": "#4A154B",
-            "color": "#4A154B",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/slack.png"
         },
         {
             "tag": "#slack_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/slack.png"
-        }, 
+        },
         {
             "tag": "#sqlite",
             "stroke": "#003B57",
-            "color": "#003B57",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/sqlite.png"
         },
         {
             "tag": "#sqlite_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/sqlite.png"
-        }, 
+        },
         {
             "tag": "#tempo",
-            "stroke": "#F46800",
-            "color": "#F46800"
+            "stroke": "#F46800"
         },
         {
             "tag": "#tempo_"
@@ -685,9 +620,7 @@
         {
             "tag": "#terraform",
             "stroke": "#844FBA",
-            "color": "#844FBA",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/terraform.png"
-
         },
         {
             "tag": "#terraform_",
@@ -696,7 +629,6 @@
         {
             "tag": "#traefik",
             "stroke": "#24A1C1",
-            "color": "#24A1C1",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/traefikproxy.png"
         },
         {
@@ -706,7 +638,7 @@
         {
             "tag": "#trow",
             "stroke": "#1ED6B3",
-            "color": "#1ED6B3",
+            "#1ED6B3",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/trow.png"
         },
         {
@@ -716,7 +648,6 @@
         {
             "tag": "#uvicorn",
             "stroke": "#DA0D84",
-            "color": "#DA0D84",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/uvicorn.png"
         },
         {
@@ -726,7 +657,6 @@
         {
             "tag": "#vue",
             "stroke": "#4FC08D",
-            "color": "#4FC08D",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs.png"
         },
         {
@@ -736,7 +666,6 @@
         {
             "tag": "#vscode",
             "stroke": "#0089D2",
-            "color": "#0089D2",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vscode.png"
         },
         {
@@ -746,7 +675,6 @@
         {
             "tag": "#windows",
             "stroke": "#0078D6",
-            "color": "#0078D6",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/windows.png"
         },
         {
@@ -755,8 +683,7 @@
         },
         {
             "tag": "#zipkin",
-            "stroke": "#66CFE3",
-            "color": "#66CFE3"
+            "stroke": "#66CFE3"
         },
         {
             "tag": "#zipkin_"
