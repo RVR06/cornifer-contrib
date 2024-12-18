@@ -32,11 +32,11 @@
         {
             "tag": "#ansys",
             "stroke": "#FFB71B",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/ansys-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/ansys.png"
         },
         {
             "tag": "#ansys_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/ansys-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/ansys.png"
         },
         {
             "tag": "#apisix",
