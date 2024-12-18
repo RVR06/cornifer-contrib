@@ -424,11 +424,11 @@
         {
             "tag": "#metabase",
             "stroke": "#509EE3",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/metabase-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/metabase.png"
         },
         {
             "tag": "#metabase_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/metabase-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/metabase.png"
         },
         {
             "tag": "#minio",
@@ -550,11 +550,11 @@
         {
             "tag": "#pytorch",
             "stroke": "#EE4C2C",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/pytorch-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/pytorch.png"
         },
         {
             "tag": "#pytorch_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/pytorch-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/pytorch.png"
         },
         {
             "tag": "#rabbitmq",
@@ -568,20 +568,20 @@
         {
             "tag": "#redis",
             "stroke": "#DC382D",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/redis-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/redis.png"
         },
         {
             "tag": "#redis_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/redis-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/redis.png"
         },
         {
             "tag": "#rust",
             "stroke": "#000000",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/rust-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/rust.png"
         },
         {
             "tag": "#rust_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/rust-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/rust.png"
         },
         {
             "tag": "#s3",
