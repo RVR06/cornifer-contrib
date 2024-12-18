@@ -66,11 +66,11 @@
         {
             "tag": "#aws",
             "stroke": "#232F3E",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazonaws-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazonaws.png"
         },
         {
             "tag": "#aws_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazonaws-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazonaws.png"
         },
         {
             "tag": "#aws_ecs",
@@ -147,11 +147,11 @@
         {
             "tag": "#cert-manager",
             "stroke": "#326CE5",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/cert-manager-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/cert-manager.png"
         },
         {
             "tag": "#cert-manager_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/cert-manager-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/cert-manager.png"
         },
         {
             "tag": "#daedalus",
@@ -345,20 +345,20 @@
         {
             "tag": "#k8s",
             "stroke": "#326CE5",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kubernetes-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kubernetes.png"
         },
         {
             "tag": "#k8s_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kubernetes-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kubernetes.png"
         },
         {
             "tag": "#karpenter",
             "stroke": "#5C62B0",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/karpenter-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/karpenter.png"
         },
         {
             "tag": "#karpenter_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/karpenter-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/karpenter.png"
         },
         {
             "tag": "#keda",
@@ -381,11 +381,11 @@
         {
             "tag": "#kyverno",
             "stroke": "#E87E5B",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kyverno-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kyverno.png"
         },
         {
             "tag": "#kyverno_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kyverno-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kyverno.png"
         },
         {
             "tag": "#lens",
@@ -514,11 +514,11 @@
         {
             "tag": "#postgresql",
             "stroke": "#4169E1",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/postgresql-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/postgresql.png"
         },
         {
             "tag": "#postgresql_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/postgresql-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/postgresql.png"
         },
         {
             "tag": "#prometheus",
@@ -559,11 +559,11 @@
         {
             "tag": "#rabbitmq",
             "stroke": "#FF6600",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/rabbitmq-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/rabbitmq.png"
         },
         {
             "tag": "#rabbitmq_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/rabbitmq-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/rabbitmq.png"
         },
         {
             "tag": "#redis",
