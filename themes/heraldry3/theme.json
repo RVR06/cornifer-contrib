@@ -407,7 +407,7 @@
         },
         {
             "tag": "#loki",
-            "stroke": "#F46800",
+            "stroke": "#F46800"
         },
         {
             "tag": "#loki_"
@@ -638,7 +638,6 @@
         {
             "tag": "#trow",
             "stroke": "#1ED6B3",
-            "#1ED6B3",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/trow-black.png"
         },
         {
