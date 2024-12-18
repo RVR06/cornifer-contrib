@@ -485,6 +485,15 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/opentelemetry.png"
         },
         {
+            "tag": "#paraview",
+            "stroke": "#003765",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/paraview.png"
+        },
+        {
+            "tag": "#paraview_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/paraview.png"
+        },
+        {
             "tag": "#phoenix",
             "stroke": "#FD4F00",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/phoenix-black.png"

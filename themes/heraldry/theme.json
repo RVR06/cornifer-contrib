@@ -535,6 +535,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/opentelemetry-black.png"
         },
         {
+            "tag": "#paraview",
+            "stroke": "#003765",
+            "color": "#003765",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/paraview-black.png"
+        },
+        {
+            "tag": "#paraview_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/paraview-black.png"
+        },
+        {
             "tag": "#phoenix",
             "stroke": "#FD4F00",
             "color": "#FD4F00",
