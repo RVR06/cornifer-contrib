@@ -65,11 +65,11 @@
         {
             "tag": "#aws",
             "stroke": "#232F3E",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/amazonaws.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazonaws-color.png"
         },
         {
             "tag": "#aws_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/amazonaws.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazonaws-color.png"
         },
         {
             "tag": "#aws_ecs",
