@@ -5,11 +5,11 @@
         {
             "tag": "#aim",
             "stroke": "#9923B5",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/aim-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/aim.png"
         },
         {
             "tag": "#aim_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/aim-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/aim.png"
         },
         {
             "tag": "#android",
@@ -219,11 +219,11 @@
         {
             "tag": "#elixir",
             "stroke": "#4B275F",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/elixir-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/elixir.png"
         },
         {
             "tag": "#elixir_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/elixir-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/elixir.png"
         },
         {
             "tag": "#ferrari",
@@ -469,11 +469,11 @@
         {
             "tag": "#nginx",
             "stroke": "#009639",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/nginx-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/nginx.png"
         },
         {
             "tag": "#nginx_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/nginx-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/nginx.png"
         },
         {
             "tag": "#otel",
@@ -541,11 +541,11 @@
         {
             "tag": "#python",
             "stroke": "#3776AB",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/python-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/python.png"
         },
         {
             "tag": "#python_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/python-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/python.png"
         },
         {
             "tag": "#pytorch",
@@ -656,11 +656,11 @@
         {
             "tag": "#vue",
             "stroke": "#4FC08D",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs.png"
         },
         {
             "tag": "#vue_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs.png"
         },
         {
             "tag": "#vscode",
