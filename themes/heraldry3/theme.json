@@ -399,11 +399,11 @@
         {
             "tag": "#linux",
             "stroke": "#FCC624",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/linux-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/linux.png"
         },
         {
             "tag": "#linux_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/linux-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/linux.png"
         },
         {
             "tag": "#loki",
@@ -683,11 +683,11 @@
         {
             "tag": "#windows",
             "stroke": "#0078D6",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/windows-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/windows.png"
         },
         {
             "tag": "#windows_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/windows-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/windows.png"
         },
         {
             "tag": "#zipkin",
