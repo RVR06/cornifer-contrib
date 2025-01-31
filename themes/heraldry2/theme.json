@@ -29,11 +29,11 @@
         {
             "tag": "#ansys",
             "stroke": "#FFB71B",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/ansys.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/ansys-color.png"
         },
         {
             "tag": "#ansys_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/ansys.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/ansys-color.png"
         },
         {
             "tag": "#apisix",
