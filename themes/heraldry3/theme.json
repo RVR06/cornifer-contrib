@@ -50,11 +50,11 @@
         {
             "tag": "#aspire",
             "stroke": "#512BD4",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/aspire-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/aspire.png"
         },
         {
             "tag": "#aspire_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/aspire-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/aspire.png"
         },
         {
             "tag": "#asynkron",
