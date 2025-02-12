@@ -532,11 +532,11 @@
         {
             "tag": "#prometheus",
             "stroke": "#E6522C",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/prometheus-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/prometheus.png"
         },
         {
             "tag": "#prometheus_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/prometheus-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/prometheus.png"
         },
         {
             "tag": "#pulumi",
@@ -600,6 +600,15 @@
         {
             "tag": "#s3_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazons3-black.png"
+        },
+        {
+            "tag": "#sentry",
+            "stroke": "#362D59",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/sentry.png"
+        },
+        {
+            "tag": "#sentry_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/sentry.png"
         },
         {
             "tag": "#slack",

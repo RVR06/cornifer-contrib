@@ -599,8 +599,17 @@
         },
         {
             "tag": "#s3_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazons3-colore.png"
-        }, 
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazons3-color.png"
+        },
+        {
+            "tag": "#sentry",
+            "stroke": "#362D59",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/sentry-color.png"
+        },
+        {
+            "tag": "#sentry_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/sentry-color.png"
+        },
         {
             "tag": "#slack",
             "stroke": "#4A154B",
