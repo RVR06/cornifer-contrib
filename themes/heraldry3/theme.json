@@ -41,11 +41,11 @@
         {
             "tag": "#apisix",
             "stroke": "#F60B05",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/apisix-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/apisix.png"
         },
         {
             "tag": "#apisix_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/apisix-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/apisix.png"
         },
         {
             "tag": "#aspire",
