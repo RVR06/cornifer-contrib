@@ -165,11 +165,11 @@
         {
             "tag": "#docker",
             "stroke": "#2496ED",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/docker-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/docker.png"
         },
         {
             "tag": "#docker_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/docker-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/docker.png"
         },
         {
             "tag": "#dockerCompose",
