@@ -476,6 +476,24 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/nginx.png"
         },
         {
+            "tag": "#onprem-multi",
+            "stroke": "#546E7A",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/onprem-multi.png"
+        },
+        {
+            "tag": "#onprem-multi_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/onprem-multi.png"
+        },
+        {
+            "tag": "#onprem-single",
+            "stroke": "#546E7A",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/onprem-single.png"
+        },
+        {
+            "tag": "#onprem-single_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/onprem-single.png"
+        },
+        {
             "tag": "#otel",
             "stroke": "#F5A800",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/opentelemetry.png"
