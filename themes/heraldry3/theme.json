@@ -672,13 +672,13 @@
             "tag": "#tempo_"
         },
         {
-            "tag": "#typedscript",
+            "tag": "#typescript",
             "stroke": "#3178C6",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/typedscript.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/typescript.png"
         },
         {
-            "tag": "#typedscript_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/typedscript.png"
+            "tag": "#typescript_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/typescript.png"
         },
         {
             "tag": "#terraform",
