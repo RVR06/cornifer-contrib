@@ -685,6 +685,15 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/trow-color.png"
         },
         {
+            "tag": "#typedscript",
+            "stroke": "#3178C6",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/typedscript-color.png"
+        },
+        {
+            "tag": "#typedscript_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/typedscript-color.png"
+        },
+        {
             "tag": "#uvicorn",
             "stroke": "#DA0D84",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/uvicorn.png"
