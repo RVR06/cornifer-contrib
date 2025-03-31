@@ -325,6 +325,15 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jaguar-black.png"
         },
         {
+            "tag": "#juicefs",
+            "stroke": "#0ABD59",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/juicefs.png"
+        },
+        {
+            "tag": "#juicefs_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/juicefs.png"
+        },
+        {
             "tag": "#jupyter",
             "stroke": "#F37626",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jupyter-black.png"
