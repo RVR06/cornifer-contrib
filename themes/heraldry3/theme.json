@@ -656,6 +656,15 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/sqlite-black.png"
         },
         {
+            "tag": "#svelte",
+            "stroke": "#FF3E00",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/svelte.png"
+        },
+        {
+            "tag": "#svelte_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/svelte.png"
+        },
+        {
             "tag": "#tempo",
             "stroke": "#F46800"
         },
