@@ -29,29 +29,29 @@
         {
             "tag": "#ansys",
             "stroke": "#FFB71B",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/ansys.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/ansys-color.png"
         },
         {
             "tag": "#ansys_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/ansys.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/ansys-color.png"
         },
         {
             "tag": "#apisix",
             "stroke": "#F60B05",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/apisix.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/apisix-color.png"
         },
         {
             "tag": "#apisix_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/apisix.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/apisix-color.png"
         },
         {
             "tag": "#aspire",
             "stroke": "#512BD4",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/aspire.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/aspire-color.png"
         },
         {
             "tag": "#aspire_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/aspire.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/aspire-color.png"
         },
         {
             "tag": "#asynkron",
@@ -323,8 +323,17 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jaguar-color.png"
         },
         {
+            "tag": "#juicefs",
+            "stroke": "#0ABD59",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/juicefs-color.png"
+        },
+        {
+            "tag": "#juicefs_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/juicefs-color.png"
+        },
+        {
             "tag": "#jupyter",
-            "stroke": "#F37626",
+            "stroke": "#0ABD59",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jupyter-color.png"
         },
         {
@@ -599,8 +608,17 @@
         },
         {
             "tag": "#s3_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazons3-colore.png"
-        }, 
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/amazons3-color.png"
+        },
+        {
+            "tag": "#sentry",
+            "stroke": "#362D59",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/sentry-color.png"
+        },
+        {
+            "tag": "#sentry_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/sentry-color.png"
+        },
         {
             "tag": "#slack",
             "stroke": "#4A154B",
@@ -618,7 +636,16 @@
         {
             "tag": "#sqlite_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/sqlite-color.png"
-        }, 
+        },
+        {
+            "tag": "#svelte",
+            "stroke": "#FF3E00",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/svelte-color.png"
+        },
+        {
+            "tag": "#svelte_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/svelte-color.png"
+        },
         {
             "tag": "#tempo",
             "stroke": "#F46800",
@@ -658,6 +685,15 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/trow-color.png"
         },
         {
+            "tag": "#typescript",
+            "stroke": "#3178C6",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/typescript-color.png"
+        },
+        {
+            "tag": "#typescript_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/typescript-color.png"
+        },
+        {
             "tag": "#uvicorn",
             "stroke": "#DA0D84",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/uvicorn.png"
@@ -687,11 +723,11 @@
         {
             "tag": "#windows",
             "stroke": "#0078D6",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/windows.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/windows.png"
         },
         {
             "tag": "#windows_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/windows.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/windows.png"
         },
         {
             "tag": "#zipkin",
