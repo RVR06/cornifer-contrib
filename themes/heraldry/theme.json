@@ -695,6 +695,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/slack-black.png"
         }, 
         {
+            "tag": "#springboot",
+            "stroke": "#6DB33F",
+            "color": "#6DB33F",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/springboot-black.png"
+        },
+        {
+            "tag": "#springboot_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/springboot-black.png"
+        },
+        {
             "tag": "#sqlite",
             "stroke": "#003B57",
             "color": "#003B57",
