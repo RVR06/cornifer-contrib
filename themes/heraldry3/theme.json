@@ -253,6 +253,14 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/github-black.png"
         },
         {
+            "tag": "#go",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/go-black.png"
+        },
+        {
+            "tag": "#go_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/go-black.png"
+        },
+        {
             "tag": "#googlecloud",
             "stroke": "#4285F4",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/googlecloud-black.png"
@@ -395,6 +403,10 @@
         {
             "tag": "#lens_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/lens-black.png"
+        },
+        {
+            "tag": "#letsencrypt",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/letsencrypt-black.png"
         },
         {
             "tag": "#linux",

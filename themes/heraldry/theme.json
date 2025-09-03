@@ -277,6 +277,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/github-black.png"
         },
         {
+            "tag": "#go",
+            "stroke": "#00ADD8",
+            "color": "#00ADD8",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/go-black.png"
+        },
+        {
+            "tag": "#go_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/go-black.png"
+        },
+        {
             "tag": "#googlecloud",
             "stroke": "#4285F4",
             "color": "#4285F4",
@@ -425,6 +435,16 @@
         {
             "tag": "#kyverno_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kyverno-black.png"
+        },
+        {
+            "tag": "#letsencrypt",
+            "stroke": "#003A70",
+            "color": "#003A70",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/letsencrypt-black.png"
+        },
+        {
+            "tag": "#letsencrypt",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/letsencrypt-black.png"
         },
         {
             "tag": "#lens",
