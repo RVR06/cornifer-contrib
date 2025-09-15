@@ -6,7 +6,8 @@
             "tag": "#aim",
             "stroke": "#9923B5",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/aim.png"
-        },        {
+        },
+        {
             "tag": "#aim_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/aim.png"
         },
@@ -14,7 +15,8 @@
             "tag": "#android",
             "stroke": "#3DDC84",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/android-color.png"
-        },        {
+        },
+        {
             "tag": "#android_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/android-color.png"
         },
@@ -22,7 +24,8 @@
             "tag": "#angular",
             "stroke": "#0F0F11",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/angular-color.png"
-        },        {
+        },
+        {
             "tag": "#angular_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/angular-color.png"
         },
@@ -111,7 +114,8 @@
             "tag": "#bash",
             "stroke": "#4EAA25",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/bash-color.png"
-        },        {
+        },
+        {
             "tag": "#bash_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/bash-color.png"
         },
@@ -510,7 +514,16 @@
         {
             "tag": "#oauth2proxy_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/oauth2proxy-color.png"
-        },     
+        },
+        {
+            "tag": "#opencost",
+            "stroke": "#81AD95",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/opencost-color.png"
+        },
+        {
+            "tag": "#opencost_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/opencost-color.png"
+        },
         {
             "tag": "#otel",
             "stroke": "#F5A800",
@@ -695,7 +708,6 @@
             "tag": "#terraform",
             "stroke": "#844FBA",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/terraform-color.png"
-
         },
         {
             "tag": "#terraform_",
@@ -705,7 +717,6 @@
             "tag": "#traefik",
             "stroke": "#24A1C1",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/traefikproxy-color.png"
-
         },
         {
             "tag": "#traefik_",

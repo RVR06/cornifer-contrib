@@ -563,7 +563,17 @@
         {
             "tag": "#oauth2proxy_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/oauth2proxy-black.png"
-        },        
+        },
+        {
+            "tag": "#opencost",
+            "stroke": "#81AD95",
+            "color": "#81AD95",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/opencost-black.png"
+        },
+        {
+            "tag": "#opencost_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/opencost-black.png"
+        },
         {
             "tag": "#otel",
             "stroke": "#F5A800",

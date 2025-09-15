@@ -527,6 +527,15 @@
             "tag": "#onprem-single_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/onprem-single.png"
         },
+       {
+            "tag": "#opencost",
+            "stroke": "#81AD95",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/opencost.png"
+        },
+        {
+            "tag": "#opencost_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/opencost.png"
+        },
         {
             "tag": "#otel",
             "stroke": "#F5A800",
