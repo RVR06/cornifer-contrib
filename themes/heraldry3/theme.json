@@ -501,6 +501,15 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/nginx.png"
         },
         {
+            "tag": "#oauth2proxy",
+            "stroke": "#06ed94",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/oauth2proxy.png"
+        },
+        {
+            "tag": "#oauth2proxy_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/oauth2proxy.png"
+        },   
+        {
             "tag": "#onprem-multi",
             "stroke": "#546E7A",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/onprem-multi.png"

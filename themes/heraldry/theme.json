@@ -555,6 +555,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/nginx-black.png"
         },
         {
+            "tag": "#oauth2proxy",
+            "stroke": "#06ed94",
+            "color": "#06ed94",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/oauth2proxy-black.png"
+        },
+        {
+            "tag": "#oauth2proxy_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/oauth2proxy-black.png"
+        },        
+        {
             "tag": "#otel",
             "stroke": "#F5A800",
             "color": "#F5A800",
