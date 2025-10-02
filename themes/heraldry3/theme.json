@@ -517,7 +517,7 @@
         {
             "tag": "#oauth2proxy_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/oauth2proxy.png"
-        },   
+        },
         {
             "tag": "#onprem-multi",
             "stroke": "#546E7A",
@@ -536,7 +536,7 @@
             "tag": "#onprem-single_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/onprem-single.png"
         },
-       {
+        {
             "tag": "#opencost",
             "stroke": "#81AD95",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/opencost.png"
@@ -769,13 +769,13 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/uvicorn-black.png"
         },
         {
-            "tag": "#vue",
-            "stroke": "#4FC08D",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs.png"
+            "tag": "#valkey",
+            "stroke": "#6983ff",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/valkey.png"
         },
         {
-            "tag": "#vue_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs.png"
+            "tag": "#valkey_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/valkey.png"
         },
         {
             "tag": "#vscode",
@@ -785,6 +785,15 @@
         {
             "tag": "#vscode_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vscode-black.png"
+        },
+        {
+            "tag": "#vue",
+            "stroke": "#4FC08D",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs.png"
+        },
+        {
+            "tag": "#vue_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs.png"
         },
         {
             "tag": "#windows",

@@ -7,7 +7,8 @@
             "stroke": "#9923B5",
             "color": "#9923B5",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/aim-black.png"
-        },        {
+        },
+        {
             "tag": "#aim_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/aim-black.png"
         },
@@ -16,7 +17,8 @@
             "stroke": "#3DDC84",
             "color": "#3DDC84",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/android-black.png"
-        },        {
+        },
+        {
             "tag": "#android_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/android-black.png"
         },
@@ -25,7 +27,8 @@
             "stroke": "#0F0F11",
             "color": "#0F0F11",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/angular-black.png"
-        },        {
+        },
+        {
             "tag": "#angular_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/angular-black.png"
         },
@@ -122,7 +125,8 @@
             "stroke": "#4EAA25",
             "color": "#4EAA25",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/bash-black.png"
-        },        {
+        },
+        {
             "tag": "#bash_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/bash-black.png"
         },
@@ -743,7 +747,7 @@
         {
             "tag": "#slack_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/slack-black.png"
-        }, 
+        },
         {
             "tag": "#springboot",
             "stroke": "#6DB33F",
@@ -773,7 +777,7 @@
         {
             "tag": "#svelte_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/svelte-black.png"
-        }, 
+        },
         {
             "tag": "#tempo",
             "stroke": "#F46800",
@@ -787,7 +791,6 @@
             "stroke": "#844FBA",
             "color": "#844FBA",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/terraform-black.png"
-
         },
         {
             "tag": "#terraform_",
@@ -834,14 +837,14 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/uvicorn-black.png"
         },
         {
-            "tag": "#vue",
-            "stroke": "#4FC08D",
-            "color": "#4FC08D",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs-black.png"
+            "tag": "#valkey",
+            "stroke": "#6983ff",
+             "color": "#6983ff",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/valkey-black.png"
         },
         {
-            "tag": "#vue_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs-black.png"
+            "tag": "#valkey_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/valkey-black.png"
         },
         {
             "tag": "#vscode",
@@ -852,6 +855,16 @@
         {
             "tag": "#vscode_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vscode-black.png"
+        },
+        {
+            "tag": "#vue",
+            "stroke": "#4FC08D",
+            "color": "#4FC08D",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs-black.png"
+        },
+        {
+            "tag": "#vue_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs-black.png"
         },
         {
             "tag": "#windows",

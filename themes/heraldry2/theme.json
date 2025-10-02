@@ -759,13 +759,13 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/uvicorn.png"
         },
         {
-            "tag": "#vue",
-            "stroke": "#4FC08D",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs-color.png"
+            "tag": "#valkey",
+            "stroke": "#6983ff",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/valkey-color.png"
         },
         {
-            "tag": "#vue_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs-color.png"
+            "tag": "#valkey_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/valkey-color.png"
         },
         {
             "tag": "#vscode",
@@ -775,6 +775,15 @@
         {
             "tag": "#vscode_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vscode-color.png"
+        },
+        {
+            "tag": "#vue",
+            "stroke": "#4FC08D",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs-color.png"
+        },
+        {
+            "tag": "#vue_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/vuedotjs-color.png"
         },
         {
             "tag": "#windows",
