@@ -311,11 +311,11 @@
         {
             "tag": "#influxdb",
             "stroke": "#22ADF6",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/icons/icons/influxdb-color.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/influxdb-color.png"
         },
         {
             "tag": "#influxdb_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/icons/icons/influxdb-color.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/influxdb-color.png"
         },
         {
             "tag": "#jaeger",
