@@ -446,11 +446,11 @@
         {
             "tag": "#loki",
             "stroke": "#F46800",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/loki.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/loki-color.png"
         },
         {
             "tag": "#loki_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/loki.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/loki-color.png"
         },
         {
             "tag": "#maserati",
@@ -707,11 +707,11 @@
         {
             "tag": "#tempo",
             "stroke": "#F46800",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/tempo.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/tempo-color.png"
         },
         {
             "tag": "#tempo_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/logos/tempo.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/tempo-color.png"
         },
         {
             "tag": "#terraform",
