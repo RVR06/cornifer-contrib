@@ -154,6 +154,15 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/cert-manager.png"
         },
         {
+            "tag": "#datadog",
+            "stroke": "##632CA6",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/datadog.png"
+        },
+        {
+            "tag": "#datadog_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/datadog.png"
+        },
+        {
             "tag": "#daedalus",
             "stroke": "#FF1493",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/daedalus-black.png"
@@ -721,11 +730,11 @@
         {
             "tag": "#tempo",
             "stroke": "#F46800",
-             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/tempo.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/tempo.png"
         },
         {
             "tag": "#tempo_",
-             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/tempo.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/tempo.png"
         },
         {
             "tag": "#typescript",

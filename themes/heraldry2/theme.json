@@ -165,6 +165,15 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/chrome-color.png"
         },
         {
+            "tag": "#datadog",
+            "stroke": "##632CA6",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/datadog-color.png"
+        },
+        {
+            "tag": "#datadog_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/datadog-color.png"
+        },
+        {
             "tag": "#docker",
             "stroke": "#2496ED",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/docker-color.png"
