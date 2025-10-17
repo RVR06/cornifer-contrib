@@ -174,11 +174,11 @@
             "tag": "#datadog",
             "stroke": "#632CA6",
             "color": "#632CA6",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/datadog-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/datadog-black.png"
         },
         {
             "tag": "#datadog_",
-            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/assets/datadog-black.png"
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/datadog-black.png"
         },
         {
             "tag": "#daedalus",
