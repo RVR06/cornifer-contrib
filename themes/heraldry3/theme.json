@@ -341,6 +341,15 @@
             "tag": "#jaguar_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jaguar-black.png"
         },
+                {
+            "tag": "#jfrog",
+            "stroke": "##40BE46",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jfrog.png"
+        },
+        {
+            "tag": "#jfrog_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jfrog.png"
+        },
         {
             "tag": "#juicefs",
             "stroke": "#0ABD59",

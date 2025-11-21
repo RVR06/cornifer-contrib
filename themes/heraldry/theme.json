@@ -381,6 +381,16 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jaguar-black.png"
         },
         {
+            "tag": "#jfrog",
+            "stroke": "##40BE46",
+            "color": "##40BE46",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jfrog-black.png"
+        },
+        {
+            "tag": "#jfrog_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/jfrog-black.png"
+        },
+        {
             "tag": "#juicefs",
             "stroke": "#0ABD59",
             "color": "#0ABD59",
@@ -853,7 +863,7 @@
         {
             "tag": "#valkey",
             "stroke": "#6983ff",
-             "color": "#6983ff",
+            "color": "#6983ff",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/valkey-black.png"
         },
         {
