@@ -264,6 +264,15 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/firefox-color.png"
         },
         {
+            "tag": "#freelens",
+            "stroke": "#02a7a0",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/freelens-color.png"
+        },
+        {
+            "tag": "#freelens_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/freelens-color.png"
+        },
+        {
             "tag": "#github",
             "stroke": "#181717",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/github-color.png"
@@ -271,6 +280,15 @@
         {
             "tag": "#github_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/github-color.png"
+        },
+        {
+            "tag": "#gitopspromoter",
+            "stroke": "#00254a",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/gitopspromoter-color.png"
+        },
+        {
+            "tag": "#gitopspromoter_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/gitopspromoter-color.png"
         },
         {
             "tag": "#go",
@@ -397,6 +415,15 @@
         {
             "tag": "#k8s_",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kubernetes-color.png"
+        },
+        {
+            "tag": "#kargo",
+            "stroke": "#E59655",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kargo-color.png"
+        },
+        {
+            "tag": "#kargo_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/kargo-color.png"
         },
         {
             "tag": "#karpenter",
