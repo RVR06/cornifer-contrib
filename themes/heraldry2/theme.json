@@ -246,6 +246,15 @@
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/elixir-color.png"
         },
         {
+            "tag": "#fastapi",
+            "stroke": "#009688",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/fastapi-color.png"
+        },
+        {
+            "tag": "#fastapi_",
+            "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/fastapi-color.png"
+        },
+        {
             "tag": "#ferrari",
             "stroke": "#D40000",
             "icon": "https://raw.githubusercontent.com/RVR06/cornifer-contrib/main/icons/ferrari-color.png"
